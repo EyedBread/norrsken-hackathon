@@ -1,0 +1,233 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "svedjan-bageri-sodermalm",
+  "capturedAt": "2026-10-03T12:40:29.886Z",
+  "elapsedMs": 32379,
+  "observations": [
+    {
+      "actor": "clockworks~tiktok-scraper",
+      "runId": "o0Qv2sKIECwpWN6eI",
+      "status": "SUCCEEDED",
+      "elapsedMs": 13581,
+      "usageTotalUsd": 0.001
+    },
+    {
+      "actor": "apify~google-search-scraper",
+      "runId": "qMaXDPCPAqGGlssAK",
+      "status": "SUCCEEDED",
+      "elapsedMs": 17656,
+      "usageTotalUsd": 0.001
+    }
+  ],
+  "results": {
+    "social": {
+      "items": [
+        {
+          "id": "tiktok:7674976780326948117",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Turns out in Sweden, coffee isn’t a drink, it’s a protected daily ritual 🇸🇪☕",
+          "url": "https://www.tiktok.com/@henryshealthy/video/7674976780326948117",
+          "author": "henryshealthy",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oEGFs96EU9RmIQ6QnBFqAf0DguUqZBHrfvgE8p~tplv-tiktokx-origin.image?dr=14575&x-expires=1791201600&x-signature=YW3%2FmmCk81aunjeSJazyDgysxdI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "publishedAt": "2026-08-17T12:29:48.000Z",
+          "fetchedAt": "2026-10-03T12:40:11.089Z",
+          "metrics": {
+            "views": 92800,
+            "likes": 7093,
+            "comments": 57,
+            "shares": 213
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7674976780326948117:caption:aacae76eae36",
+              "sourceUrl": "https://www.tiktok.com/@henryshealthy/video/7674976780326948117",
+              "kind": "caption",
+              "text": "Turns out in Sweden, coffee isn’t a drink, it’s a protected daily ritual 🇸🇪☕"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7682097644885380383",
+          "type": "video",
+          "source": "tiktok",
+          "title": "📍 Stora Bageriet in Stockholm Sweden! happy to be back in Europe hehe #stockholm #sweden #swedentravel #stockholmrestaurant",
+          "url": "https://www.tiktok.com/@itsmaddiewhatsup/video/7682097644885380383",
+          "author": "itsmaddiewhatsup",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/oYqqVpcyDBjIEAFRoEgIvzGE7nEeAIfyilSDEx~tplv-tiktokx-origin.image?dr=14575&x-expires=1791201600&x-signature=QjbhlpW%2FZcQtVuxlTOdlMkbBMGU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "publishedAt": "2026-09-05T17:02:37.000Z",
+          "fetchedAt": "2026-10-03T12:40:11.089Z",
+          "metrics": {
+            "views": 1377,
+            "likes": 94,
+            "comments": 10,
+            "shares": 4
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7682097644885380383:caption:79f0f6edacd3",
+              "sourceUrl": "https://www.tiktok.com/@itsmaddiewhatsup/video/7682097644885380383",
+              "kind": "caption",
+              "text": "📍 Stora Bageriet in Stockholm Sweden! happy to be back in Europe hehe #stockholm #sweden #swedentravel #stockholmrestaurant"
+            },
+            {
+              "id": "tiktok:7682097644885380383:location_tag:4969b098a43f",
+              "sourceUrl": "https://www.tiktok.com/@itsmaddiewhatsup/video/7682097644885380383",
+              "kind": "location_tag",
+              "text": "Skane, Sweden"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7664595880430931231",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Best Bakery in Stockholm? \nThe cinnamon role and Cardamom buns are insane here… \n#sweden🇸🇪 #stockholm🇸🇪 #stockholmsweden #stockholm #stockholmfood",
+          "url": "https://www.tiktok.com/@lukesemones/video/7664595880430931231",
+          "author": "lukesemones",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/oYfseVtAEKBExzAq8mDmVqQYXQU18HRghFKEas~tplv-tiktokx-origin.image?dr=14575&x-expires=1791201600&x-signature=pu5lig8st8x9XLUyYrLZ91v89VA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+          "publishedAt": "2026-07-20T13:07:15.000Z",
+          "fetchedAt": "2026-10-03T12:40:11.089Z",
+          "metrics": {
+            "views": 22500,
+            "likes": 662,
+            "comments": 17,
+            "shares": 57
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7664595880430931231:caption:ea31a0fa0dbc",
+              "sourceUrl": "https://www.tiktok.com/@lukesemones/video/7664595880430931231",
+              "kind": "caption",
+              "text": "Best Bakery in Stockholm? \nThe cinnamon role and Cardamom buns are insane here… \n#sweden🇸🇪 #stockholm🇸🇪 #stockholmsweden #stockholm #stockholmfood"
+            },
+            {
+              "id": "tiktok:7664595880430931231:location_tag:688b9fc17d16",
+              "sourceUrl": "https://www.tiktok.com/@lukesemones/video/7664595880430931231",
+              "kind": "location_tag",
+              "text": "Tempelvägen 5, 137 42 Västerhaninge, Sweden, Haninge"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "search": {
+      "items": [
+        {
+          "id": "web:3d5bed9d44e9e0e8f72d53f4",
+          "type": "article",
+          "source": "web",
+          "title": "Svedjan Bageri Södermalm - Stockholm Restaurants",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g189852-d23111457-Reviews-Svedjan_Bageri_Sodermalm-Stockholm.html",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:40:28.747Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:3d5bed9d44e9e0e8f72d53f4:search_snippet:eef17f6b3c7a",
+              "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g189852-d23111457-Reviews-Svedjan_Bageri_Sodermalm-Stockholm.html",
+              "kind": "search_snippet",
+              "text": "Good baked goods, butter cake a little heavy in the bottom, good sourdough bakery. Selected coffee with quality, and pricing that matches most cafe chains."
+            }
+          ]
+        },
+        {
+          "id": "web:3baaff0678a10c939ea87c84",
+          "type": "article",
+          "source": "web",
+          "title": "Svedjan Bageri, Stockholm, Sweden - Reviews, Ratings ...",
+          "url": "https://wanderlog.com/place/details/3863312/svedjan-bageri",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:40:28.747Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:3baaff0678a10c939ea87c84:search_snippet:f20cf2d01fbd",
+              "sourceUrl": "https://wanderlog.com/place/details/3863312/svedjan-bageri",
+              "kind": "search_snippet",
+              "text": "Reviewers rave about the soft and tasty buns, award-winning semla, well-brewed coffee, and flavorful cardamom bun. The bakery offers plenty of seating inside"
+            }
+          ]
+        },
+        {
+          "id": "web:320128591c84ceac1882fa1c",
+          "type": "article",
+          "source": "web",
+          "title": "Svedjan Bageri review — Zinkensdamm, Stockholm",
+          "url": "https://www.filternotes.com/stockholm/svedjan-bageri",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:40:28.747Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:320128591c84ceac1882fa1c:search_snippet:b8fd42ad7713",
+              "sourceUrl": "https://www.filternotes.com/stockholm/svedjan-bageri",
+              "kind": "search_snippet",
+              "text": "Svedjan stands out because it lets the guide make room for fika at bakery level without giving up on coffee. The buns, bread, and visible baking are the draw, ...Read more"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "article": {
+      "items": [
+        {
+          "id": "web:3d5bed9d44e9e0e8f72d53f4",
+          "type": "article",
+          "source": "web",
+          "title": "SVEDJAN BAGERI SÖDERMALM, Stockholm - Sodermalm Borough - Restaurant Reviews & Photos - Tripadvisor",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g189852-d23111457-Reviews-Svedjan_Bageri_Sodermalm-Stockholm.html",
+          "author": null,
+          "thumbnailUrl": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/5d/0e/24/caption.jpg",
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:40:29.878Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:3d5bed9d44e9e0e8f72d53f4:search_snippet:eef17f6b3c7a",
+              "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g189852-d23111457-Reviews-Svedjan_Bageri_Sodermalm-Stockholm.html",
+              "kind": "search_snippet",
+              "text": "Good baked goods, butter cake a little heavy in the bottom, good sourdough bakery. Selected coffee with quality, and pricing that matches most cafe chains."
+            },
+            {
+              "id": "web:3d5bed9d44e9e0e8f72d53f4:article_text:29a5cbbf7779",
+              "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g189852-d23111457-Reviews-Svedjan_Bageri_Sodermalm-Stockholm.html",
+              "kind": "article_text",
+              "text": "Europe Sweden Stockholm County Stockholm Stockholm Restaurants Svedjan Bageri Södermalm Svedjan Bageri Södermalm Unclaimed This business is unclaimed. Owners who claim their business can update listing details, add photos, respond to reviews, and more. Claim your free listing now Save Review 4.5 4.5 of 5 bubbles (29 reviews) #375 of 3,685 Restaurants in Stockholm Cafe , European , $$ - $$$ 18 What is Travelers’ Choice? Tripadvisor gives a Travelers’ Choice award to accommodations, attractions and restaurants that consistently earn great reviews from travelers and are ranked within the top 10% of properties on Tripadvisor. Interior 5 Food 5 Drinks 2 Svedjan Bageri Södermalm At a glance + Add hours Brännkyrkagatan 88, Stockholm 117 26 Sweden Website Improve this listing About Features CUISINES Cafe, European, Swedish PRICE $$ - $$$ Why travelers love this The most recent 5-bubble reviews, displayed for restaurants rated as very good or higher. See all reviews below for more information. Some reviews may have been automatically translated. 4.5 4.5 of 5 bubbles (29 reviews) Kristina · Aug 2026 Such a cozy cafe with good food. Usually, a regular sandwich is nothing to brag about, but this one was incredibly good! In addition, the toscabrownie was absolutely fantastic. This is a must-go place! Read more Matilda · Jul 2026 Really cozy cafe with incredible sandwiches and pastries. Suitable for studying/working and for hanging out in larger groups. Also nice to sit on their outdoor terrace which is along the walls. Read more petter · Jun 2026 Shout out to the shawties running the service, despite what other reviews say, this place had a bangin line that reached the door threshold, but I still walked out of that door in less than 6 minutes. Shout out to the bakers for cooking up a fireball of flavor that makes you wish you were dating the baker. You will never catch me at any other bakery in Stockholm besides this puppy. Ain't got no complaints, go here and have a great day! Read more Anna T · Mar 2026 The bread is exceptionally good, especially the porridge bread. Staff charmingly nice and knowledgeable. Made my Friday! Read more Ella · Nov 2024 Delicious coffee and very cozy! We were a party of four and we were all happy! Really recommend! Read more Ravi Rao · May 2024 Really great place to get a bit to eat and being very close to home helps! :) I have walked past a million times but never once went in because of the long queues and rush! That should tell you how good it must be. I was fortunate to have passed by during off hours. The bread is some of the best one will ever have. Read more Maria · Apr 2024 ABSOLUT LOVE THIS! This is a must- it is a high presure and a long cue on the weekends to buy the fresh bread and croissant and everything else good. One can only hope that more similar bakeries open - as the clear demand is high in the area. But it must maintain the same high level. This is a discerning audience. Read more Maria · Feb 2024 Think that there are no more wonderful places like this in the same block. Obviously the demand is high as every weekend there are long queues...but it's worth it! Best bread. And extremely nice staff! Really cozy neighborhood star. Read more Barbro H · Oct 2023 Another Saturday that my husband and I wanted to spend in the capital to be \"cultural\" Museum and theater visits were the goals, but we took the opportunity to try a cafe which, according to DN (Oct 2023), sells Stockholm's best buns. Despite the long queue outside the entrance, we quickly got inside the door and were also lucky to find a small table. The buns ARE really delicious and are - for me - tied for first place with Väderstad's famous confectionery. The sandwiches are fresh and have a suitably crispy surface. A clear five there as well. The coffee is good and, if you don't take a latte or the like, you get a free drink The staff who work here are really nice and helpful. THANK YOU for this cozy coffee time at Söder Read more Dag H · Oct 2023 On a cold autumn day, the queue outside the café is ringing despite the biting wind. But you won't be disappointed, full pot is our rating. The coffee and sandwiches don't quite reach the top, but are still good. Read more Location Brännkyrkagatan 88, Stockholm 117 26 Sweden Sodermalm Borough Is this primarily a coffee shop ? Yes No Unsure Save this restaurant Save Hours Add hours No hours available More ways to explore nearby Stockholm Small Group Food Tour with 7 Classic Food Tastings 4.9 4.9 of 5 bubbles (222) from $131 per adult Guided Swedish Food Walking Tour in Stockholm 4.9 4.9 of 5 bubbles (102) from $119 per adult Swedish Fika and Pastry Food Tour in Stockholm 3.9 3.9 of 5 bubbles (17) from $89 per adult Stockholm Food Tour 4.5 4.5 of 5 bubbles (210) from $112 per adult Stockholm Old Town Walking Tour with Local Guide 4.7 4.7 of 5 bubbles (50) from $23 per adult Stockholm: Walking Tour of the Old Town 4.9 4.9 of 5 bubbles (1,142) from $23 per adult Best of Stockholm: Small Group Walking Tour (Max 10, 3 Hours) 4.9 4.9 of 5 bubbles (337) from $53 per adult Stockholm Private Custom Walking Tour - Highlights & Hidden Gems 4.8 4.8 of 5 bubbles (81) from $86 per adult Reviews Tips/Q&A (2) All reviews (29) Write a review 4.5 Very Good (29) Excellent 19 Good 7 Average 2 Poor 1 Terrible 0 Service 4.4 Food 5.0 Value 5.0 Atmosphere 4.7 Traveler photos (18) Add photos Miam Miam Great sourdough bread on the \"patio\" Great sourdough bread on the \"patio\" Fall 2023 Fall 2023 Fall 2023 Fall 2023 See all photos All reviews (29) Write a review Reviews are the subjective opinion of Tripadvisor members and not of Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our industry-leading trust & safety standards. Read our transparency report to learn more. Filters (1) Sort by: Most recent Most recent Reviews ordered by most recent publish date in descending order. Detailed reviews Reviews ordered by recency and descriptiveness of user-identified themes such as wait time, length of visit, general tips, and location information. Kristina Stavanger, Norway 27 contributions 0 Must go Aug 2026 • Friends Such a cozy cafe with good food. Usually, a regular sandwich is nothing to brag about, but this one was incredibly good! In addition, the toscabrownie was absolutely fantastic. This is a must-go place! Read more Value Service Food Atmosphere Translated from Norwegian Show original Written August 22, 2026 Matilda Umeå, Sweden 216 contributions 0 Affordable and really cozy cafe Jul 2026 • Friends Really cozy cafe with incredible sandwiches and pastries. Suitable for studying/working and for hanging out in larger groups. Also nice to sit on their outdoor terrace which is along the walls. Read more Translated from Swedish Show original Written July 1, 2026 petter 1 contribution 0 Shout out to the shawties😎🍞 Jun 2026 • Solo Shout out to the shawties running the service, despite what other reviews say, this place had a bangin line that reached the door threshold, but I still walked out of that door in less than 6 minutes. Shout out to the bakers for cooking up a fireball of flavor that makes you wish you were dating the baker. You will never catch me at any other bakery in Stockholm besides this puppy. Ain't got no complaints, go here and have a great day! Read more Insider tip: no Value Service Food Atmosphere Written June 25, 2026 Alexandra M Stockholm, Sweden 158 contributions 0 Juicy classic buns Apr 2026 • Friends Took cinnamon bun that was good, but before we were going it came freshly baked tosca buns! Would have liked to taste them instead. Full of people. Good thing there's no music. Not so much variety, no pastries but focus on buns & bread. Read more Translated from Swedish Show original Written April 1, 2026 Anna T 2 contributions 0 Fantastic. Mar 2026 • Solo The bread is exceptionally good, especially the porridge bread. Staff charmingly nice and knowledgeable. Made my Friday! Read more Translated from Swedish Show original Written March 20, 2026 Nikos C 1 contribution 0 Decent, long wait Nov 2025 • Friends Amazing selection of pastries and bread. Service is catastrophic, most are so slow and create incredible queues for customers. Read more Value Service Food Atmosphere Translated from Swedish Show original Written November 15, 2025 Resa och ha det bra 3 contributions 0 Unpleasant treatment by several, particularly good by a Nov 2025 • Solo Admittedly, only 25 minutes until closing, many guests in the room, high noise and still long queue, but I think the staff should manage. Long working days or rude customers may explain a particularly boring and unprofessional treatment. Ignorance and zero service behavior of several. It was obvious that they wanted the guests to really understand that they / we can not be around for many more minutes. Thankful for a “service angel” though who even knew how much milk I wanted in my coffee. Read more Translated from Swedish Show original Written November 2, 2025 Joakim U Stockholm, Sweden 43 contributions 0 Awesome bread, boring staff Sep 2025 • Family Delicious bread and semlan is special but also very good. Service is a big question mark. Some of them should do something else. I don’t really know why they are so unpleasant and nonchalant, for no reason. Read more Translated from Swedish Show original Written September 30, 2025 Åsa W 2 contributions 0 Breakfast Apr 2025 • Family Everything as usual delicious! Another good thing is that dogs are allowed. However, my guy's coffee was sloppy and the staff tired, overbearing and disengaged. Maybe just the staff who worked that day because other times I have been there they have been really nice. Read more Value Service Food Atmosphere Translated from Swedish Show original Written April 7, 2025 fitzbenedict Stockholm, Sweden 7901 contributions 0 Trendy bakery with good bread Mar 2025 • Solo A bakery with hipster warning near Zinkensdamm. It serves very good, “real” bread and good pastries. However, it is very popular so it quickly becomes crowded and a little messy. A roll of coffee in the morning costs about 90 SEK, which is affordable compared to other places with much more boring bread. I also bought a croissant that was good, but maybe not the best in town. Very friendly staff! Read more Translated from Swedish Show original Written April 1, 2025 per l 1 contribution 0 away with the laptop occupiers Feb 2025 • Solo Unfortunately, the place has been completely taken over by people with patchwork tops in the morning. They consider it their own private place. They take over the little tables so no one can sit there and sit there for hours. There is no room for regular guests, which is a shame when the buns are good. You have to wait for summer and sit on the outdoor tables! Read more Translated from Swedish Show original Written February 21, 2025 Åsa L 3 contributions 0 Good semla but put your hair up! Jan 2025 • Couples Nice semla. Juicy bun, good crunchy moderately crisp almond paste. Lightly whipped cream. BUT … totally unacceptable to see one of the bakers with shoulder length hair that is not up or wearing a baker’s hat. So disgusting risk hair in the pastries!!!!! Read more Translated from Swedish Show original Written January 26, 2025 Ella Stockholm, Sweden 58 contributions 0 Good and cozy! Nov 2024 • Family Delicious coffee and very cozy! We were a party of four and we were all happy! Really recommend! Read more Translated from Swedish Show original Written November 3, 2024 Ravi Rao 2 contributions 0 Jättebra! May 2024 • Solo Really great place to get a bit to eat and being very close to home helps! :) I have walked past a million times but never once went in because of the long queues and rush! That should tell you how good it must be. I was fortunate to have passed by during off hours. The bread is some of the best one will ever have. Read more Insider tip: It's in a residential area a little way away from Gamla stan or the touristy places, but if you're in Södermalm, definitely worth a visit! Value Service Food Atmosphere Written May 7, 2024 Maria 68 contributions 0 A MUST VISIT Apr 2024 • Couples ABSOLUT LOVE THIS! This is a must- it is a high presure and a long cue on the weekends to buy the fresh bread and croissant and everything else good. One can only hope that more similar bakeries open - as the clear demand is high in the area. But it must maintain the same high level. This is a discerning audience. Read more Value Service Food Atmosphere Written April 17, 2024 1 2 Showing results 1-15 of 24 Related Stories 12 pet-friendly getaways we love Dec 11, 2025 • 4 min read Your dog deserves a vacation, too. Consider these pet-friendly trip ideas around the world. By Noah Cortez European destinations worth seeing (and saving for) May 29, 2025 • 5 min read Escape to Madrid on a city break that goes the extra mile, or take that White Lotus-inspired trip to Italy that you’ve been dreaming about for months. Whatever you’ve been saving for and wherever you go, Monzo can help you get the most out of every penny you’ve earned. 13 places to see cherry blossoms around the world Feb 6, 2024 • 6 min read Sakura season is almost here, and we’ve found 13 top places to see cherry blossoms around the world—from Tokyo to Washington D.C. and beyond. By Noah Cortez Best moderately priced restaurants See all DalaNisse 4.8 4.8 of 5 bubbles (689 reviews) European • $$ - $$$ Closed now Reserve 50% off Milos Restaurang 4.9 4.9 of 5 bubbles (379 reviews) Bar • $$ - $$$ Open now Reserve Aiyara Restaurang 4.8 4.8 of 5 bubbles (121 reviews) Asian • $$ - $$$ Open now Reserve STHLM Tapas 4.7 4.7 of 5 bubbles (1,373 reviews) International • $$ - $$$ Closed now Reserve Maestro 4.8 4.8 of 5 bubbles (593 reviews) Mediterranean • $$ - $$$ Closed now Restaurant Kryp In Sodermalm 4.8 4.8 of 5 bubbles (206 reviews) European • $$ - $$$ Closed now Tabbouli 4.4 4.4 of 5 bubbles (459 reviews) Lebanese • $$ - $$$ Closed now Reserve Stockholms Gästabud 4.7 4.7 of 5 bubbles (3,758 reviews) European • $$ - $$$ Open now Fika & Wine 4.7 4.7 of 5 bubbles (202 reviews) Cafe • $$ - $$$ Open now Lilla Gästabud 4.9 4.9 of 5 bubbles (82 reviews) European • $$ - $$$ Open now Best nearby We rank these hotels, restaurants, and attractions by balancing reviews from our members with how close they are to this location. Best nearby hotels See all Hotel Hellstens Malmgard 4.3 4.3 of 5 bubbles (1,121) 0.13 miles away Hotell Och Hostel Zinkensdamm 4.1 4.1 of 5 bubbles (476) 0.28 miles away Lunda Pensionat 3.8 3.8 of 5 bubbles (96) 0.08 miles away Bed & Breakfast Stockholm at Mariatorget 4.2 4.2 of 5 bubbles (19) 0.29 miles away Best nearby restaurants See all Restaurant Kryp In Sodermalm 4.8 4.8 of 5 bubbles (206) 0.37 miles away Tabbouli 4.6 4.6 of 5 bubbles (757) 0.42 miles away Falafelbaren 4.5 4.5 of 5 bubbles (193) 0.34 miles away Nostrano 4.3 4.3 of 5 bubbles (270) 0.36 miles away Best nearby attractions See all Dockteatern Tittut 4.0 4 of 5 bubbles (1) 0.08 miles away Zinkensdamms IP 3.0 3 of 5 bubbles (2) 0.09 miles away Skinnarviksberget 4.7 4.7 of 5 bubbles (73) 0.15 miles away Historical Escapes 5.0 5 of 5 bubbles (49) 0.21 miles away Is This Your Listing? Own or manage this property? Claim your listing for free to respond to reviews, update your profile and much more. Claim Your Free Listing SVEDJAN BAGERI SÖDERMALM, Stockholm - Sodermalm Borough - Restaurant Reviews & Photos - Tripadvisor"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

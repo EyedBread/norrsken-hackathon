@@ -1,0 +1,93 @@
+[
+  {
+    "placeKey": "vete-katten-kungsgatan",
+    "candidateId": "tiktok:7648748209669491982",
+    "expectedVerdict": "keep",
+    "reason": "Location tag identifies Vete-Katten Kungsgatan, Kungsgatan 55.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "vete-katten-kungsgatan",
+    "candidateId": "tiktok:7515060034896809258",
+    "expectedVerdict": "keep",
+    "reason": "Caption identifies Vete-Katten on Kungsgatan in Stockholm.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "vete-katten-kungsgatan",
+    "candidateId": "tiktok:7592704161733414174",
+    "expectedVerdict": "reject",
+    "reason": "Location tag identifies Östermalmstorg, not Kungsgatan 55.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "vete-katten-kungsgatan",
+    "candidateId": "tiktok:7668219744062852373",
+    "expectedVerdict": "uncertain",
+    "reason": "Caption says Kungsgatan but location tag says Östermalmstorg.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "cafe-pascal-vasastan",
+    "candidateId": "tiktok:7558092215805938966",
+    "expectedVerdict": "keep",
+    "reason": "Caption and location tag identify Norrtullsgatan 4.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "cafe-pascal-vasastan",
+    "candidateId": "tiktok:7527301939311267094",
+    "expectedVerdict": "keep",
+    "reason": "Caption names Café Pascal and location tag identifies Norrtullsgatan 4.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "cafe-pascal-vasastan",
+    "candidateId": "tiktok:7622286293430521110",
+    "expectedVerdict": "reject",
+    "reason": "Location tag identifies the Skånegatan 76 branch.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "cafe-pascal-vasastan",
+    "candidateId": "tiktok:7547731775183703318",
+    "expectedVerdict": "reject",
+    "reason": "Caption and location tag identify the Gävlegatan 22 roastery.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "cafe-pascal-vasastan",
+    "candidateId": "tiktok:7387826699255156000",
+    "expectedVerdict": "uncertain",
+    "reason": "Caption names the café and city, without branch evidence.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "stora-bageriet-ostermalm",
+    "candidateId": "tiktok:7381445686920793376",
+    "expectedVerdict": "keep",
+    "reason": "Location tag identifies Stora Bageriet at Sibyllegatan 2.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "stora-bageriet-ostermalm",
+    "candidateId": "tiktok:7593065151616552194",
+    "expectedVerdict": "keep",
+    "reason": "Caption identifies Stora Bageriet at Sibyllegatan 2, Stockholm.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "stora-bageriet-ostermalm",
+    "candidateId": "tiktok:7623836827555843346",
+    "expectedVerdict": "uncertain",
+    "reason": "Caption says Sibyllegatan 2 but location tag says Södermalm.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  },
+  {
+    "placeKey": "stora-bageriet-ostermalm",
+    "candidateId": "tiktok:7390243835764313377",
+    "expectedVerdict": "uncertain",
+    "reason": "Caption discusses both branches and prefers Sankt Eriksgatan; footage location is unverified.",
+    "reviewBasis": "manual review of captured caption/location metadata; no video inspection"
+  }
+]

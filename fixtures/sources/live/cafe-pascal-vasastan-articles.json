@@ -1,0 +1,135 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "cafe-pascal-vasastan",
+  "queryOverride": null,
+  "capturedAt": "2026-10-03T12:43:21.022Z",
+  "elapsedMs": 20626,
+  "observations": [
+    {
+      "actor": "apify~google-search-scraper",
+      "runId": "HBTWFOLZK9rpX4UWb",
+      "status": "SUCCEEDED",
+      "elapsedMs": 19845,
+      "usageTotalUsd": 0.001
+    }
+  ],
+  "results": {
+    "search": {
+      "items": [
+        {
+          "id": "web:7891b62b0bb49634e1322759",
+          "type": "article",
+          "source": "web",
+          "title": "Stockholm Specialty Coffee Guide",
+          "url": "https://www.doubleskinnymacchiato.com/2016/10/best-speciality-coffee-in-stockholm-guide.html",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:20.241Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:7891b62b0bb49634e1322759:search_snippet:1371e18a94b7",
+              "sourceUrl": "https://www.doubleskinnymacchiato.com/2016/10/best-speciality-coffee-in-stockholm-guide.html",
+              "kind": "search_snippet",
+              "text": "Café Pascal is also a great brunch spot and there are plenty of tempting salads and sandwiches on the menu — the prices aren't especially cheap, ..."
+            }
+          ]
+        },
+        {
+          "id": "web:d21c1368e452c6d9e0841759",
+          "type": "article",
+          "source": "web",
+          "title": "The Best Bakeries & Cafes in Stockholm Perfect for Fika",
+          "url": "https://roamandthrive.com/best-bakeries-cafes-in-stockholm/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:20.241Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:d21c1368e452c6d9e0841759:search_snippet:72f58061e34b",
+              "sourceUrl": "https://roamandthrive.com/best-bakeries-cafes-in-stockholm/",
+              "kind": "search_snippet",
+              "text": "Café Pascal was one of my favorite finds among the best cafes in Stockholm. There are a few locations around the city, including Södermalm and  ..."
+            }
+          ]
+        },
+        {
+          "id": "web:61e8314164bde90a58af1d01",
+          "type": "article",
+          "source": "web",
+          "title": "Best coffee in Stockholm",
+          "url": "https://www.slowtravelstockholm.com/food-and-drink/best-coffee-in-stockholm/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:20.241Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:61e8314164bde90a58af1d01:search_snippet:fd2ff8b00dca",
+              "sourceUrl": "https://www.slowtravelstockholm.com/food-and-drink/best-coffee-in-stockholm/",
+              "kind": "search_snippet",
+              "text": "Also in the north is Café Pascal, an altogether larger and livelier establishment. They have an outstanding lunch menu and are open longer ..."
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "article": {
+      "items": [
+        {
+          "id": "web:7891b62b0bb49634e1322759",
+          "type": "article",
+          "source": "web",
+          "title": "Stockholm Specialty Coffee Guide",
+          "url": "https://www.doubleskinnymacchiato.com/2016/10/best-speciality-coffee-in-stockholm-guide.html",
+          "author": null,
+          "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTAeyYRQOQDLi_Xqu6xMpMEm8wDyIzBUx54q25992Rty__qHicvth0FPQFKYjZtLO57_ajvgZns9AFqUNfRd9oO8L9yVZLQtCgcnA_ScuMHiuxLqqqgqqiXg4ytRXhLBoi6wmfEPRgjtqX/w1200-h630-p-k-no-nu/IMG_1294.JPG",
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:21.020Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:7891b62b0bb49634e1322759:search_snippet:1371e18a94b7",
+              "sourceUrl": "https://www.doubleskinnymacchiato.com/2016/10/best-speciality-coffee-in-stockholm-guide.html",
+              "kind": "search_snippet",
+              "text": "Café Pascal is also a great brunch spot and there are plenty of tempting salads and sandwiches on the menu — the prices aren't especially cheap, ..."
+            },
+            {
+              "id": "web:7891b62b0bb49634e1322759:article_text:e9b5cea1237e",
+              "sourceUrl": "https://www.doubleskinnymacchiato.com/2016/10/best-speciality-coffee-in-stockholm-guide.html",
+              "kind": "article_text",
+              "text": "About COFFEE GUIDES DESTINATIONS TRAVEL RESOURCES London NYC Double Skinny Macchiato contains affiliate links and is a participant in the Amazon Services LLC Associates Program. If you click and make a purchase using these links, I may earn a commission at no extra cost to you. See my Privacy Policy for more information. Thank you for supporting my blog! 07 October 2016 Stockholm Specialty Coffee Guide When I last visited Stockholm in 2011 , the only coffee shop I went to was Café Stiernan in Gamla Stan. The notes I made in my global travel spreadsheet read: \"good spot for coffee — with latte art!!\" Happily, the Stockholm coffee scene has come a long way in the past five years and there were plenty of great cafés waiting for me this time. Here are a few of my favourites — scroll to the end for a handy map. Café Pascal (Vasastan) I arrived at Café Pascal, located on a quiet side street in Vasastan, at lunchtime on a sunny Saturday and it was seriously busy. The queue snaked almost to the door, but the cheerful and efficient baristas served everyone promptly and it was my turn to order in no time. There is plenty of seating inside the café, though — a combination of long, sharing tables, smaller spaces and window seats; there were also a few tables on the pavement but on such a gorgeous day, these had long since been nabbed. Café Pascal serves coffee from a variety of microroasteries. While I was there, they were offering coffee from two Swedish roasters: Koppi in Helsingborg and Lund-based Love . There is a dedicated brew bar as well as an espresso machine, and I decided to go for an Ethiopian Nano Challa coffee from Koppi, brewed through the V60, as recommended by the barista. Despite the queue, the barista did a superb job with my pourover — in fact, it was easily within the top three pourovers I've had this year. The fruity flavours came out so nicely that I couldn't stop sniffing my coffee! Of course, it tasted great too. Café Pascal is also a great brunch spot and there are plenty of tempting salads and sandwiches on the menu — the prices aren't especially cheap, but this is Stockholm. I went for the Swedish take on avo toast: avocado and a nearly poached egg on rye brad, which was really delicious. The café itself is beautiful with its rustic-chic décor and the baristas really, really care about making each cup of coffee awesome. If you're in Stockholm, don't miss this place. Café Pascal is located at Norrtullsgatan 4. Instagram . Drop Coffee (Södermalm) After having the pleasure of trying Drop Coffee's beans recently at both Flat White and Milkbar , I was keen to visit their base in their hometown. Their roastery was a little too far out of town for me to stop by on this trip, but I did make it to their Södermalm coffee bar. Inside, the design is very minimalist: light wood accented with pops of yellow. There weren't any hand-brewed filters on offer so I ordered a cortado and took a seat in the window so that I could people-watch (always a fun activity in quirky Södermalm). The coffee was a Kenyan variety — coincidentally, my second Kenyan cortado in under an hour — and it was very nicely brewed, although on the longer side. The subtler notes of the coffee still came through well, though, and I was very pleased. There are a few seats outside for those warmer days and plenty more inside for when the weather is less kind. A few light bites are on offer too and you can buy bags of beans to take home. Drop Coffee is located at Wollmar Yxkullsgatan 10. Twitter . Instagram . Johan & Nyström (Södermalm; Arlanda Airport) I visited Johan & Nyström's Helsinki café a few years ago and really liked it so I was looking forward to stopping by the original Stockholm concept boutique. I was not disappointed! I visited on two occasions, trying two different V60 pourovers (one from an El Salvador coffee and one from Ethiopia) and a cortado (made with a Kenyan variety). All three drinks were brewed expertly by friendly, knowledgeable baristas and isn't their custom espresso machine one of the most beautiful you've ever seen? The café itself is a small warren of interconnected rooms and so even when it's busy (which it was on both of my visits), you can usually find a cosy nook to make your own. I particularly liked the raised seats behind the brew bar, which has plenty of cushions for you to rest against. They run a variety of workshops and courses too and if you aren't sure which bag of beans to buy, they are happy to let you sample a few varieties. The bags themselves are gorgeous too — each decorated with an animal typical of the country the beans come from. I bought a bag of Ethiopian Guji coffee to take home and I've been enjoying it this week brewed through my Aeropress. Best of all, though, is that Johan & Nyström now has a coffee bar at Arlanda airport in the arrivals section of Terminal 2. In my rush to get into the city centre and the Södermalm J&N, I didn't stop for coffee on my arrival, but it's great to know that the option is there. With the exception of PDX, whose Stumptown coffee bar opened a few months after my visit to Portland earlier this year, it's rare to find specialty coffee at an airport. At J&N, you could get a great espresso-based drink or a pourover, and if you've forgotten to buy gifts to take home, their coffee beans are sure to be a winner! Johan & Nyström's concept boutique is located at Swedenborgsgatan 7. Twitter . Instagram . Kaffeverket (Vasastan) I hit Kaffeverket, located on one of Vasastan's broader boulevards, just at brunch time and there was a bit of a queue. In the absence of a pourover on the menu, I ordered a cortado and managed to grab a seat at one of the sharing tables, climbing over a bench in a most un-ladylike fashion. The coffee was good and the pastries and brunch dishes looked lovely. The whole café was very Instagrammable, from its tiled walls, well-curated artwork and pendant light bulbs. Kaffeverket is located at Sankt Eriksgatan 88. Instagram . Melqvist Kaffebar (Vasastan) A very popular weekend brunch spot, Melqvist Kaffebar, located right next to Sankt Eriksplan Tunnelbana station, was heaving when I got there. I didn't have the energy to fight for a table, even though the food looked great, so I just got a cortado to take away, which was pretty nice. This café is definitely best enjoyed from one of the sunny pavement tables. Melqvist Kaffebar is located at Rörstrandsgatan 4. Facebook . Snickarbacken (Norrmalm). Part café, part lifestyle boutique and part gallery, Snickarbacken, tucked away on a quiet street in Norrmalm, is all things to all people. Happily, they do all of these things well! My friend and I stopped by for fika on a Saturday afternoon, sharing a V60 for two, brewed with a Kenyan Kabingara coffee from Gothenburg-based roaster Per Nordby . It was a fruity brew with strong citrus notes, and even though it was my fifth coffee of the day, I really enjoyed it. Snickarbacken 7 is (unsurprisingly) located at Snickarbacken 7. Instagram . There were several other coffee shops on my list, including three that I couldn't visit as they were closed. Tasman Café (Torsgatan 31) in Vasastan is a popular antipodean-style café and I'd hoped to do brunch there but alas, they don't open at weekends. In Norrmalm, I failed to check out Bianchi Café & Cycles (Norrlandsgatan 20), which is closed on Sundays (although Google Maps is ignorant of this), and Kafé Esaias (Drottninggatan 102B), which serves coffee from Gothenburg roaster Da Matteo , but which I ran out of time to visit. Posted by Bex Email This BlogThis! Share to X Share to Facebook Share to Pinterest Labels: caffeine chronicles , coffee , maps , Stockholm , Sweden , travel No comments: Post a Comment Newer Post Older Post Home Subscribe to: Post Comments (Atom) Hi, I’m Bex, a London-based coffee and travel blogger. If you enjoy carefully crafted specialty coffee guides, destination itineraries and solo female travel stories, you're in the right place! Search this site Popular this week My 25 Favourite London Brunch Spots (Updated 2026) 16 Specialty Coffee Spots To Visit in Melbourne My 50 Favourite London Restaurants (Updated 2026) Best Specialty Coffee Shops in London — A Local's Guide (Updated 2026) 16 Specialty Coffee Spots To Visit in Sydney Five Days in Palma de Mallorca: Cathedrals, Culture and Coves"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

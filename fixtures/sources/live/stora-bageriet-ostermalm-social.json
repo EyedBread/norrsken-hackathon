@@ -1,0 +1,192 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "stora-bageriet-ostermalm",
+  "queryOverride": "Stora Bageriet Sibyllegatan",
+  "capturedAt": "2026-10-03T12:44:17.820Z",
+  "elapsedMs": 6397,
+  "observations": [
+    {
+      "actor": "clockworks~tiktok-scraper",
+      "runId": "vDUN70zOGhy3tmUJe",
+      "status": "SUCCEEDED",
+      "elapsedMs": 6394,
+      "usageTotalUsd": 0
+    }
+  ],
+  "results": {
+    "social": {
+      "items": [
+        {
+          "id": "tiktok:7381445686920793376",
+          "type": "video",
+          "source": "tiktok",
+          "title": "OM NI VILL HA GOFIKA, GÅ HIT!!! 🤩 Jättemysig uteservering att sitta på nu när det är fint väder! Menar såklart helt SÅLD på lillebrors bullar! #storabageriet #stockholmstips #swedishfika",
+          "url": "https://www.tiktok.com/@kkajsafors/video/7381445686920793376",
+          "author": "kkajsafors",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/owEnAUi4GLzveIFFIMIGx4eAQ7eygGTCGegPcj~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=hniRWGEemNWdQw0VdKvl40jIHMw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2024-06-17T12:19:19.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 3908,
+            "likes": 34,
+            "comments": 1,
+            "shares": 10
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7381445686920793376:caption:d312cb42fa3a",
+              "sourceUrl": "https://www.tiktok.com/@kkajsafors/video/7381445686920793376",
+              "kind": "caption",
+              "text": "OM NI VILL HA GOFIKA, GÅ HIT!!! 🤩 Jättemysig uteservering att sitta på nu när det är fint väder! Menar såklart helt SÅLD på lillebrors bullar! #storabageriet #stockholmstips #swedishfika"
+            },
+            {
+              "id": "tiktok:7381445686920793376:location_tag:c00015ce3f51",
+              "sourceUrl": "https://www.tiktok.com/@kkajsafors/video/7381445686920793376",
+              "kind": "location_tag",
+              "text": "Stora bageriet, Sibyllegatan 2, 114 51 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7623836827555843346",
+          "type": "video",
+          "source": "tiktok",
+          "title": "@Stora Bageriet                                     Location 📍sibyllegatan 2                   1and 2nd of April              #stocholm #somalitiktok #april",
+          "url": "https://www.tiktok.com/@theezahra0/video/7623836827555843346",
+          "author": "theezahra0",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/o4bDFB0ZUEyrOm8aQEkoEfgmcnzepQAgWB8Rga~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=MipGi1GZkEXFJ%2F4ITKn%2FZUiyxXg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2026-04-01T17:00:43.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 2359,
+            "likes": 73,
+            "comments": 8,
+            "shares": 22
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7623836827555843346:caption:3d124c494698",
+              "sourceUrl": "https://www.tiktok.com/@theezahra0/video/7623836827555843346",
+              "kind": "caption",
+              "text": "@Stora Bageriet                                     Location 📍sibyllegatan 2                   1and 2nd of April              #stocholm #somalitiktok #april"
+            },
+            {
+              "id": "tiktok:7623836827555843346:location_tag:1a114984f05e",
+              "sourceUrl": "https://www.tiktok.com/@theezahra0/video/7623836827555843346",
+              "kind": "location_tag",
+              "text": "Södermalm, Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7390243835764313377",
+          "type": "video",
+          "source": "tiktok",
+          "title": "For locals, 📌 Stora Bageriet is one of the most beloved cafés in town. You can find some of the best breakfasts here, sweet buns, and other delicious food to nibble on. \n\nThey’re in two locations: \n📍 ",
+          "url": "https://www.tiktok.com/@its.thuha/video/7390243835764313377",
+          "author": "its.thuha",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oUnBYZuNiOWCI7iozvgAWa7fvX4IAXCRPEhqIh~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=V2Knw5do9bfss%2BiJxhyXFT4GzQ0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2024-07-11T05:20:59.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 38200,
+            "likes": 456,
+            "comments": 3,
+            "shares": 224
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7390243835764313377:caption:b78b56c85706",
+              "sourceUrl": "https://www.tiktok.com/@its.thuha/video/7390243835764313377",
+              "kind": "caption",
+              "text": "For locals, 📌 Stora Bageriet is one of the most beloved cafés in town. You can find some of the best breakfasts here, sweet buns, and other delicious food to nibble on. \n\nThey’re in two locations: \n📍 Sibyllegatan 2 (Östermalm) \n📍 Sankt Eriksgatan 88 (St Eriksplan) \n\nI kinda prefer the location in St Eriksplan as its smaller and usually less busy. But they both have their charm. And buns! The most important party tbh. \n\n#storabageriet #bakeriesofinstagram #stockholm #stockholmcity #stockholmfood #stockholmtips"
+            },
+            {
+              "id": "tiktok:7390243835764313377:location_tag:9559d49b890e",
+              "sourceUrl": "https://www.tiktok.com/@its.thuha/video/7390243835764313377",
+              "kind": "location_tag",
+              "text": "Stockholm, Stockholm, Sweden"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7659869751958703390",
+          "type": "video",
+          "source": "tiktok",
+          "title": "When in Stockholm, Swedish bakeries are a MUST ! You have to get a smörgåsbord and a kardemummabulle.\n\n📍Stora Bageriet\n\nIf you’re in Stockholm, make sure you check out one of the best local bakeries, ",
+          "url": "https://www.tiktok.com/@suavefoodreviews/video/7659869751958703390",
+          "author": "suavefoodreviews",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/osISpPIAqzALoIqpCfjQdmedAYGUIEAQeAgUsa~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=lkaCFQFclwKuwjk6NDt8HkP8RUE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2026-07-07T19:27:05.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 24400,
+            "likes": 838,
+            "comments": 14,
+            "shares": 119
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7659869751958703390:caption:131ac0dcb0b3",
+              "sourceUrl": "https://www.tiktok.com/@suavefoodreviews/video/7659869751958703390",
+              "kind": "caption",
+              "text": "When in Stockholm, Swedish bakeries are a MUST ! You have to get a smörgåsbord and a kardemummabulle.\n\n📍Stora Bageriet\n\nIf you’re in Stockholm, make sure you check out one of the best local bakeries, Stora Bageriet.\n\n#travel #Sweden #Stockholm #food #foodreview\n#foodie #foodblogger #food #foodporn #foodphotography #foodstagram #instafood #foodlover #foodblog #foodies #review #yummy #foodiesofinstagram #delicious #foodgram #foodpics #foodlovers #foodreviews #kulinerindonesia #instagood #foodreviewer #foodiegram #restaurant #restaurantreview #swedishfood"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7384358092042997024",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Our favourite cafes / bakeries in Stockholm 🤍☕️🍵 #stockholm #stockholmstyle #stockholmsummer #visitsweden #stockholmguide #stockholminspo #gorlstripinspo #scandinavia #stockholmtrip #stockholmcafe #ca",
+          "url": "https://www.tiktok.com/@ordatwins/video/7384358092042997024",
+          "author": "ordatwins",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/191d16a2ae39417db8e8c890981a6de9_1719304864~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=hahW7Z%2FIOkXfJTz7ryUapGaQk7w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2024-06-25T08:41:01.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 83900,
+            "likes": 1309,
+            "comments": 8,
+            "shares": 362
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7384358092042997024:caption:c84200dad66f",
+              "sourceUrl": "https://www.tiktok.com/@ordatwins/video/7384358092042997024",
+              "kind": "caption",
+              "text": "Our favourite cafes / bakeries in Stockholm 🤍☕️🍵 #stockholm #stockholmstyle #stockholmsummer #visitsweden #stockholmguide #stockholminspo #gorlstripinspo #scandinavia #stockholmtrip #stockholmcafe #cafesinstockholm #swedishbuns"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7593065151616552194",
+          "type": "video",
+          "source": "tiktok",
+          "title": "One of the best coffees ☕️ in town. Check out \n\nStora Bageriet\n📍 Sibyllegatan 2, Stockholm \n\nWhere do you have fika in Stockholm? Tell me in the comments 👀\n\n#stockholmtravel",
+          "url": "https://www.tiktok.com/@chamy_in_sweden/video/7593065151616552194",
+          "author": "chamy_in_sweden",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oMI7zUNigsAeIgVfYK8AuIkagMLQKffGfi43Jh~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=JuU7xcg8w%2BWAnqf43VMI7OUgGgU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2026-01-08T18:50:50.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 2901,
+            "likes": 118,
+            "comments": 1,
+            "shares": 5
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7593065151616552194:caption:f45d66fabec8",
+              "sourceUrl": "https://www.tiktok.com/@chamy_in_sweden/video/7593065151616552194",
+              "kind": "caption",
+              "text": "One of the best coffees ☕️ in town. Check out \n\nStora Bageriet\n📍 Sibyllegatan 2, Stockholm \n\nWhere do you have fika in Stockholm? Tell me in the comments 👀\n\n#stockholmtravel"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

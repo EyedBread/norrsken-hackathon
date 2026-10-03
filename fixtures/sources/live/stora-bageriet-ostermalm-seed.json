@@ -1,0 +1,41 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "curated-public-url",
+  "venueKey": "stora-bageriet-ostermalm",
+  "queryOverride": null,
+  "capturedAt": "2026-10-03T12:44:12.140Z",
+  "elapsedMs": 466,
+  "observations": [],
+  "results": {
+    "article": {
+      "items": [
+        {
+          "id": "web:0fa6d91074164a17003de718",
+          "type": "article",
+          "source": "web",
+          "title": "Stora Bageriet | Visit Stockholm",
+          "url": "https://www.visitstockholm.com/o/stora-bageriet-ostermalm/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:44:12.135Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:0fa6d91074164a17003de718:article_text:de98cb04de43",
+              "sourceUrl": "https://www.visitstockholm.com/o/stora-bageriet-ostermalm/",
+              "kind": "article_text",
+              "text": "Categories: Coffee Shop / Café Stora Bageriet Östermalm SBR Stora Bageriet is located on Östermalm in the oldest industrial building in Stockholm; a bakery that used to supply the military with fresh bread. They're open for breakfast, fika and lunch, and their outdoor terrace is perfect for a refreshing drink in the shade. Getting there Location icon Sibyllegatan 2 114 51 Stockholm Open in google maps External link icon Phone icon +46(0)8-27 72 72 Mail icon kavalleriet@dregs.se External link icon storabageriet.com Share icon Share Save Bookmark icon Save Explore related guides Categories: Activities, 5 ways to explore Stockholm, between the Bad Bunny concerts Activities 5 ways to explore Stockholm, between the Bad Bunny concerts Arrow icon Categories: Cafés, Fat Tuesday – the day of the Semla 2026 Cafés Fat Tuesday – the day of the Semla 2026 Arrow icon Categories: Cafés, Design cafées in Stockholm Cafés Design cafées in Stockholm Arrow icon Categories: Cafés, Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Cafés Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Arrow icon Categories: Cafés, Breakfast spots in Stockholm Cafés Breakfast spots in Stockholm Arrow icon Categories: Cafés, Great cafés on Östermalm Cafés Great cafés on Östermalm Arrow icon Categories: Cafés, Roy Fares: My top 5 places to eat semla Cafés Roy Fares: My top 5 places to eat semla Arrow icon"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

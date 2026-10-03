@@ -1,0 +1,41 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "curated-public-url",
+  "venueKey": "cafe-pascal-vasastan",
+  "queryOverride": null,
+  "capturedAt": "2026-10-03T12:42:36.614Z",
+  "elapsedMs": 202,
+  "observations": [],
+  "results": {
+    "article": {
+      "items": [
+        {
+          "id": "web:785d68290579f16948d9202b",
+          "type": "article",
+          "source": "web",
+          "title": "Café Pascal Vasastan | Visit Stockholm",
+          "url": "https://www.visitstockholm.com/o/cafe-pascal/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:42:36.611Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:785d68290579f16948d9202b:article_text:6e48b55c2349",
+              "sourceUrl": "https://www.visitstockholm.com/o/cafe-pascal/",
+              "kind": "article_text",
+              "text": "Categories: Coffee Shop / Café Café Pascal Vasastan Stina Bengtsson A block from busy Odenplan, on a quiet corner, you'll find Café Pascal. In 2019 the coffee house won the prestigious Gulddraken award for best café in Stockholm. Great coffee and sandwiches with shrimp or porchetta to die for! Getting there Location icon Norrtullsgatan 4 113 29 Stockholm Open in google maps External link icon Phone icon +46(0)8-31 61 10 Mail icon info@cafepascal.se External link icon cafepascal.se Share icon Share Save Bookmark icon Save Explore related guides Categories: Tourist attractions, Stockholm in 24 hours – what you can see and do in a day Tourist attractions Stockholm in 24 hours – what you can see and do in a day Arrow icon Categories: Cafés, Design cafées in Stockholm Cafés Design cafées in Stockholm Arrow icon Categories: Cafés, Breakfast spots in Stockholm Cafés Breakfast spots in Stockholm Arrow icon Categories: Cafés, Where to find the best coffee in Vasastan Cafés Where to find the best coffee in Vasastan Arrow icon Categories: Cafés, An outdoor lunch or fika in Stockholm Cafés An outdoor lunch or fika in Stockholm Arrow icon"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "cafe-pascal-vasastan",
+  "capturedAt": "2026-10-03T12:40:20.183Z",
+  "elapsedMs": 25904,
+  "observations": [
+    {
+      "actor": "clockworks~tiktok-scraper",
+      "runId": "rgqJgFamdDcrKtMlQ",
+      "status": "SUCCEEDED",
+      "elapsedMs": 7190,
+      "usageTotalUsd": 0
+    },
+    {
+      "actor": "apify~google-search-scraper",
+      "runId": "2YdbxY6GkIZzVM3yY",
+      "status": "SUCCEEDED",
+      "elapsedMs": 17094,
+      "usageTotalUsd": 0.001
+    }
+  ],
+  "results": {
+    "social": {
+      "items": [
+        {
+          "id": "tiktok:7387826699255156000",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Replying to @VickyClimbFit part two on the hunt for Stockholm’s best pastries, we’ve got cafe pascal #stockholmcafe #stockholmfood #stockholmthingstodo #visitstockholm",
+          "url": "https://www.tiktok.com/@emmakatehall/video/7387826699255156000",
+          "author": "emmakatehall",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/80ee944e0f1343119b999a7be7192d62_1720112456~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=iJUyKv5AM7fNjmHCPcJmipD2aUA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2024-07-04T17:00:52.000Z",
+          "fetchedAt": "2026-10-03T12:40:01.470Z",
+          "metrics": {
+            "views": 156900,
+            "likes": 3312,
+            "comments": 47,
+            "shares": 514
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7387826699255156000:caption:6a3e258ceebd",
+              "sourceUrl": "https://www.tiktok.com/@emmakatehall/video/7387826699255156000",
+              "kind": "caption",
+              "text": "Replying to @VickyClimbFit part two on the hunt for Stockholm’s best pastries, we’ve got cafe pascal #stockholmcafe #stockholmfood #stockholmthingstodo #visitstockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7646423531638541571",
+          "type": "video",
+          "source": "tiktok",
+          "title": "the beginning of an era! my first official treat review. \n\nsaffron bun with vanilla cream from Café Pascal - Odenplan in stockholm, sweden! \n\nrate: 9.5-10/10\n\nfollow along for more treat reviews!\n\n#tr",
+          "url": "https://www.tiktok.com/@treat.review/video/7646423531638541571",
+          "author": "treat.review",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/owjIuIOGAmeDXsfLe6UjLFAZQAdBbOQJxpbMPI~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=IpRirrfZihICisuJYneEGsolcWc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-06-01T13:48:37.000Z",
+          "fetchedAt": "2026-10-03T12:40:01.470Z",
+          "metrics": {
+            "views": 821,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7646423531638541571:caption:88d06af47578",
+              "sourceUrl": "https://www.tiktok.com/@treat.review/video/7646423531638541571",
+              "kind": "caption",
+              "text": "the beginning of an era! my first official treat review. \n\nsaffron bun with vanilla cream from Café Pascal - Odenplan in stockholm, sweden! \n\nrate: 9.5-10/10\n\nfollow along for more treat reviews!\n\n#treatreview #stockholm #sweden #treats #saffron"
+            },
+            {
+              "id": "tiktok:7646423531638541571:location_tag:90e088722a6b",
+              "sourceUrl": "https://www.tiktok.com/@treat.review/video/7646423531638541571",
+              "kind": "location_tag",
+              "text": "Norrtullsgatan 4, 113 29 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7622286293430521110",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Jakten på trevligaste caféet i Sthlm har precis börjat - vilket är ditt?",
+          "url": "https://www.tiktok.com/@patricpersson/video/7622286293430521110",
+          "author": "patricpersson",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/ooHaiFBRkDpfxmEuzgS3AxQhQfVXDqFEn2Q28D~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=9x3WLlB0C2htHFmAlDvy8AE9c1Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-03-28T12:43:50.000Z",
+          "fetchedAt": "2026-10-03T12:40:01.470Z",
+          "metrics": {
+            "views": 11200,
+            "likes": 181,
+            "comments": 20,
+            "shares": 7
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7622286293430521110:caption:18f76387d3a6",
+              "sourceUrl": "https://www.tiktok.com/@patricpersson/video/7622286293430521110",
+              "kind": "caption",
+              "text": "Jakten på trevligaste caféet i Sthlm har precis börjat - vilket är ditt?"
+            },
+            {
+              "id": "tiktok:7622286293430521110:location_tag:fa97cf2c7292",
+              "sourceUrl": "https://www.tiktok.com/@patricpersson/video/7622286293430521110",
+              "kind": "location_tag",
+              "text": "Skånegatan 76, 116 37 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "search": {
+      "items": [
+        {
+          "id": "web:721c69296ee809fb888a00b9",
+          "type": "article",
+          "source": "web",
+          "title": "Cafe Pascal - Restaurantes en Estocolmo - Opiniones",
+          "url": "https://www.tripadvisor.com.mx/Restaurant_Review-g189852-d8559351-Reviews-Cafe_Pascal-Stockholm.html",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:40:18.567Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:721c69296ee809fb888a00b9:search_snippet:02131d24958a",
+              "sourceUrl": "https://www.tripadvisor.com.mx/Restaurant_Review-g189852-d8559351-Reviews-Cafe_Pascal-Stockholm.html",
+              "kind": "search_snippet",
+              "text": "Encantador refugio de Fika con café global y golosinas caseras ... Escondida en Norrtullsgatan 4 en Estocolmo, esta encantadora cafetería es una visita obligada ...Read more"
+            }
+          ]
+        },
+        {
+          "id": "web:e171f2d4fabae22702d116cb",
+          "type": "article",
+          "source": "web",
+          "title": "The 20 best coffee shops and best cafes in Solna",
+          "url": "https://wanderlog.com/list/geoCategory/285301/best-coffee-shops-and-best-cafes-in-solna",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:40:18.567Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:e171f2d4fabae22702d116cb:search_snippet:24c12a2d41b3",
+              "sourceUrl": "https://wanderlog.com/list/geoCategory/285301/best-coffee-shops-and-best-cafes-in-solna",
+              "kind": "search_snippet",
+              "text": "Café Pascal is a charming coffee shop located in the heart of Stockholm, offering a warm and inviting atmosphere with country-style decor. Run by the Seropian ...Read more"
+            }
+          ]
+        },
+        {
+          "id": "web:ced9aee3998412739de811fe",
+          "type": "article",
+          "source": "web",
+          "title": "THE BEST 10 CAFES NEAR STOCKHOLM, SWEDEN",
+          "url": "https://m.yelp.com/search?cflt=cafes&find_loc=Vasastan%2C+Stockholm",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:40:18.567Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:ced9aee3998412739de811fe:search_snippet:f207d239f371",
+              "sourceUrl": "https://m.yelp.com/search?cflt=cafes&find_loc=Vasastan%2C+Stockholm",
+              "kind": "search_snippet",
+              "text": "Cafes · Desserts. Cafe Pascal - Cafes near me - Stockholm, Stockholms län. 2. Cafe Pascal. 4.4 (135 reviews). 0.5 mi. Norrtullsgatan 4, 113 29 Stockholm Sweden.Read more"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "article": {
+      "items": [
+        {
+          "id": "web:721c69296ee809fb888a00b9",
+          "type": "article",
+          "source": "web",
+          "title": "PASCAL, Estocolmo - Restaurante Opiniones, Menú y Fotos",
+          "url": "https://www.tripadvisor.com.mx/Restaurant_Review-g189852-d8559351-Reviews-Pascal-Stockholm.html",
+          "author": null,
+          "thumbnailUrl": "https://media-cdn.tripadvisor.com/media/photo-w/25/00/80/4b/caption.jpg",
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:40:20.179Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:721c69296ee809fb888a00b9:search_snippet:02131d24958a",
+              "sourceUrl": "https://www.tripadvisor.com.mx/Restaurant_Review-g189852-d8559351-Reviews-Cafe_Pascal-Stockholm.html",
+              "kind": "search_snippet",
+              "text": "Encantador refugio de Fika con café global y golosinas caseras ... Escondida en Norrtullsgatan 4 en Estocolmo, esta encantadora cafetería es una visita obligada ...Read more"
+            },
+            {
+              "id": "web:721c69296ee809fb888a00b9:article_text:5ee52f4bd59e",
+              "sourceUrl": "https://www.tripadvisor.com.mx/Restaurant_Review-g189852-d8559351-Reviews-Pascal-Stockholm.html",
+              "kind": "article_text",
+              "text": "Europa Suecia Provincia de Estocolmo Estocolmo Restaurantes en Estocolmo - Opiniones Pascal Pascal No solicitado No se ha solicitado el perfil de este negocio. Los propietarios que soliciten el perfil de su negocio pueden actualizar los detalles del perfil, agregar fotos, responder opiniones y más. Solicite su perfil gratis ahora Guardar Opinión 4.3 4.3 de 5 burbujas (192 opiniones) N. ° 14 de 193 lugares de café y té en Estocolmo Tentempiés , Café , $$ - $$$ 134 ¿Qué es el premio Travellers' Choice? Tripadvisor les otorga el premio Travellers' Choice a los alojamientos, las atracciones y los restaurantes que consistentemente reciben excelentes opiniones de los viajeros y que se clasifican dentro del 10 % de los establecimientos más populares en Tripadvisor. Interior 18 Comida 84 Menú 2 Pascal Un vistazo al restaurante Abierto hasta las 05:00 PM Ver todos los horarios 4 Norrtullsgatan, Estocolmo 113 29 Suecia Página web +46 8 31 61 10 Correo electrónico Mejorar este perfil Acerca de Características TIPOS DE COMIDA Café, Europea, Sueca, Escandinava Tipos de comida Desayuno, Almuerzo, Brunch Dietas especiales Apto para vegetarianos, Opciones veganas, Opciones sin gluten CARACTERÍSTICAS Asiento Asientos al aire libre Comida para llevar Sillitas altas disponibles Wi-Fi gratis Ubicación 4 Norrtullsgatan, Estocolmo 113 29 Suecia Vasastan ¿Este restaurante sirve principalmente comida saludable ? Sí No No estoy seguro Guardar este restaurante Guardar Horas Sugerir una edición Abierto hasta las 05:00 PM Domingo Del 08:00 AM al 05:00 PM Lunes Del 08:00 AM al 06:00 PM Martes Del 08:00 AM al 06:00 PM Miércoles Del 08:00 AM al 06:00 PM Jueves Del 08:00 AM al 06:00 PM Viernes Del 08:00 AM al 06:00 PM Sábado Del 08:00 AM al 05:00 PM Más formas de explorar los alrededores Tour gastronómico para grupos pequeños en Estocolmo con 7 degustaciones de comida clásica 4.9 4.9 de 5 burbujas (222) desde $2,407 por adulto Visita guiada a pie de comida sueca en Estocolmo 4.9 4.9 de 5 burbujas (102) desde $2,223 por adulto Tour gastronómico de fika y pastelería Sueco en Estocolmo 3.9 3.9 de 5 burbujas (17) desde $1,627 por adulto Tour a pie por el casco antiguo de Estocolmo con guía local 4.7 4.7 de 5 burbujas (50) desde $420 por adulto Tour privado a pie personalizado de Estocolmo - Aspectos destacados y joyas ocultas 4.8 4.8 de 5 burbujas (81) desde $1,581 por adulto Private Tour of Stockholm 5.0 5 de 5 burbujas (81) desde $6,306 por grupo Estocolmo : Tour a pie por el casco antiguo 4.9 4.9 de 5 burbujas (1,142) desde $418 por adulto Visita guiada por el Museo Vasa, incluyendo boleto y guía 4.9 4.9 de 5 burbujas (247) desde $1,051 por adulto Opiniones Consejos/Preguntas y respuestas (2) Todas las opiniones (192) Escribir una opinión 4.3 Muy buena (192) Excelente 102 Bueno 66 Promedio 9 Malo 6 Horrible 9 Servicio 4.3 Comida 4.5 Calidad/precio 4.3 Ambiente 4.2 Fotos de los viajeros (134) Agregar fotos cafe cafe @endoedibles on Instagram 5/31/18 @endoedibles on Instagram 5/31/18 fantastic place, super cozy fantastic place, super cozy Ver todas las fotos Todas las opiniones (192) Escribir una opinión Las opiniones son valoraciones subjetivas de los miembros de Tripadvisor, no de Tripadvisor LLC. Además, como parte de nuestros estándares de confianza y seguridad líderes del sector, Tripadvisor verifica las opiniones de nuestros miembros. Lee nuestro informe de transparencia para obtener más información. Filtros (1) Ordenar por: Las más recientes Las más recientes Opiniones ordenadas por fecha de publicación más reciente en orden descendente. Opiniones detalladas Opiniones ordenadas según la actualidad y la descripción de temas identificados por el usuario, como tiempo de espera, duración de la visita, consejos generales e información de la ubicación. Vingi 92 aportes 0 Auténtico café de especialidad ago 2026 • Parejas La mejor cafetería de especialidad de Estocolmo. Café etíope de filtro Chemex V60 preparado con esmero 👌🏻 Leer más Traducido de inglés Mostrar original Escrita el 17 de agosto de 2026 Theodor B 7 aportes 0 Perfecto para comer o tomar un café jul 2026 • Solo Tostadas sabrosas y un café estupendo. Muchos asientos incluso durante las horas de comida. Perfecto si queréis hacer una pausa del estrés de Medborgarplatsen. Leer más Traducido de inglés Mostrar original Escrita el 28 de julio de 2026 Gökçe E Estocolmo, Suecia 15 aportes 0 Sobrevalorado sep 2025 • Amigos He estado en diferentes sucursales de Pascal muchas veces y creo que está sobrevalorado por los comentarios de las redes sociales y los influencers. Hay una selección limitada de pasteles para fika y la calidad del café es promedio. Leer más Traducido de inglés Mostrar original Escrita el 7 de septiembre de 2025 Katy B 142 aportes 0 Una maravillosa oportunidad de Fika en Estocolmo jun 2025 • Solo Aunque no estaba en este lugar exacto, tuve una experiencia maravillosa en Café Pascal. El personal era muy agradable, y los pasteles y el café eran muy buenos. ¡Con gusto volvería! Leer más Calidad/precio Servicio Comida Ambiente Traducido de inglés Mostrar original Escrita el 19 de julio de 2025 JetSky88 Nueva York, Estado de Nueva York 357 aportes 0 Pérdida de tiempo jul 2025 • Familia Tomamos caña en una tarde esperando este café que nos recomendaron visitar. Aunque todavía faltaban 90 minutos para el cierre, había una pequeña selección para elegir a la izquierda. Lo que parecía un pain au chocolat terminó llenándose de salsa de almendras, no tan buena. El baño está descuidado y sucio. Nos decepcionó mucho la visita Leer más Traducido de inglés Mostrar original Escrita el 14 de julio de 2025 AsimDalal Mumbai (Bombay), India 402 aportes 0 Encantador refugio de Fika con café global y golosinas caseras abr 2025 • Parejas Escondida en Norrtullsgatan 4 en Estocolmo, esta encantadora cafetería es una visita obligada para los amantes de la fika. Con un concepto de autoservicio y un acogedor interior de estilo rural, sirve una selección seleccionada de cafés de todo el mundo junto con productos recién horneados hechos en casa. Tuve un corte combinado con un pain au chocolat — ambos eran absolutamente perfectos, un sólido 10 / 10. Un gran lugar para comprar sus frijoles. Leer más Traducido de inglés Mostrar original Escrita el 2 de mayo de 2025 Guillermo Pereira Ciudad Del Este, Paraguay 5 aportes 0 Excelente experiencia ✅ nov 2024 • Parejas Menú muy completo, con varias opciones dulces y saladas locales. Café delicioso. El ambiente bien acogedor, pero con espacio para todos. 10 de 10 👌🏼 Leer más Escrita el 27 de noviembre de 2024 Rikard L Suecia 2 aportes 0 No volveré. nov 2024 • Solo Buen pan, pero muy caro, té + rollo de canela 97 SEK. El servicio no era el mejor, y el personal no muy amable, se hizo obvio cuando me había perdido la pequeña señal de que las computadoras no estaban permitidas. Leer más Calidad/precio Servicio Comida Ambiente Traducido de inglés Mostrar original Escrita el 20 de noviembre de 2024 heartvogue 15 aportes 0 Ambiente acogedor oct 2024 • Familia Este café desayuno es una joya! El croissant y el café eran absolutamente deliciosos, y el servicio al cliente era increíblemente acogedor y amable. El ambiente era acogedor e impecable, por lo que es el lugar perfecto para comenzar el día. Muy recomendable! Leer más Traducido de inglés Mostrar original Escrita el 3 de octubre de 2024 Rabonio Madrid, España 54 aportes 0 Desayuno único en Vasastaden ago 2022 • Parejas Un sitio único y muy tranquilo en Vasastaden a media hora andando de Gamla Stan, muy cómodo si te alojas fuera del centro. Merece la pena probar la bollería casera, el pistacho croissant y el rollo de canela están para morirse. Atención exquisita, volveremos! Leer más Escrita el 7 de agosto de 2022 DaniElle Zúrich, Suiza 106 aportes 1 Gran lugar con excelente comida may 2020 Gran lugar con excelente comida a un precio razonable. Personal realmente agradable y un ambiente relajado. Muy recomendable. Leer más Mostrar original Escrita el 9 de mayo de 2020 Patty Washington DC, Distrito de Columbia 282 aportes 2 Abarrotado pero bueno para un desayuno rápido mar 2020 Vinimos aquí para un desayuno rápido y nos sorprendió la cantidad de personas que estaban sentadas aquí a las 10 am en un día laborable. Había muchas mesas, pero en su mayoría estaban llenas. Tuvimos que apretujarnos en diferentes mesas. El personal recomendó ciertos platos, así que los pedimos. El croissant era muy escamoso y la cantidad justa de pan para aderezos. Leer más Calidad/precio Servicio Comida Mostrar original Opinión obtenida en colaboración con este restaurante Este negocio utiliza herramientas de Tripadvisor (o de uno de sus Socios de recolección de opiniones oficiales) para alentar y recolectar las opiniones de los huéspedes, incluida esta. Escrita el 30 de marzo de 2020 Filippo 4 aportes 1 Precios cambiados al pagar feb 2020 • Amigos Por dos veces seguidas con amigos decidimos comprar algunos pasteles y en el momento del pago los precios eran más altos que los expuestos. En ambos casos, el cajero dijo que los precios expuestos estaban equivocados y se negó a hacernos pagar ese precio. Cinco potenciales clientes frecuentes perdidos. El lugar en sí sería agradable y acogedor. Leer más Mostrar original Opinión obtenida en colaboración con este restaurante Este negocio utiliza herramientas de Tripadvisor (o de uno de sus Socios de recolección de opiniones oficiales) para alentar y recolectar las opiniones de los huéspedes, incluida esta. Escrita el 4 de marzo de 2020 Irene Estocolmo, Suecia 309 aportes 0 Tan bueno ? nov 2019 • Amigos Excelente lugar para fika! Ubicado realmente cerca de la estación de metro? Disfruté un mandelcroissant que pedí y un delicioso café? Leer más Mostrar original Escrita el 30 de noviembre de 2019 tarte au citron Viena, Austria 14 aportes 2 La mejor comida en un café de estilo sueco nov 2019 Modernos: platos saludables para el almuerzo, aparte de los dulces suecos tradicionales. Ambiente maravilloso, aunque abarrotado. Es el lugar perfecto para conversar con un buen amigo, pero no para estudiar. Leer más Calidad/precio Servicio Comida Mostrar original Escrita el 17 de noviembre de 2019 1 2 3 4 5 Mostrando resultados de 1 a 15 de 65 Tal como se muestra en De Michelle Neo Dónde puedes ver las flores de cerezo en el mundo: Tokio, Washington D. C., París y más Estos son los mejores lugares para ver las icónicas flores rosas. Las mejores cafeterías y casas de té Ver más Vete-Katten 4.3 4.3 de 5 burbujas (1,566 opiniones) Café • $$ - $$$ Abierto ahora Chokladkoppen 4.1 4.1 de 5 burbujas (974 opiniones) Café • $$ - $$$ Abierto ahora Alskade Traditioner 4.4 4.4 de 5 burbujas (220 opiniones) Café • $$ - $$$ Abierto ahora Cykelcafé Le Mond 4.5 4.5 de 5 burbujas (192 opiniones) Café • $$ - $$$ Abierto ahora Espresso Sosta Bar 4.6 4.6 de 5 burbujas (250 opiniones) Italiana • $$ - $$$ Abierto ahora Kaffekoppen 4.0 4 de 5 burbujas (442 opiniones) Café • $$ - $$$ Abierto ahora Skeppsbro Korv 4.5 4.5 de 5 burbujas (88 opiniones) Café • $$ - $$$ Abierto ahora Fabrique Stenugnsbageri 4.4 4.4 de 5 burbujas (173 opiniones) Café • $$ - $$$ Abierto ahora Sundbergs Konditori 3.9 3.9 de 5 burbujas (394 opiniones) Café • $$ - $$$ Abierto ahora Cafè Kladdkakan 4.1 4.1 de 5 burbujas (238 opiniones) Café • $$ - $$$ Abierto ahora Lo mejor cerca de ti Clasificamos estos hoteles, restaurantes y atracciones combinando las opiniones de nuestros miembros con la cercanía que tienen con la ubicación. Los mejores hoteles cercanos Ver todo Hotel Ruth 4.9 4.9 de 5 burbujas (470) A 0.71 kilómetros de distancia Rex Hotel 4.1 4.1 de 5 burbujas (939) A 0.68 kilómetros de distancia Corner Hotel 4.2 4.2 de 5 burbujas (1,057) A 0.57 kilómetros de distancia Villa Dahlia 4.5 4.5 de 5 burbujas (110) A 0.64 kilómetros de distancia Los mejores restaurantes cercanos Ver todo Nisch 4.7 4.7 de 5 burbujas (831) A 0.54 kilómetros de distancia Restaurang Esperanza 4.5 4.5 de 5 burbujas (729) A 0.5 kilómetros de distancia Bar Nombre 4.7 4.7 de 5 burbujas (772) A 0.8 kilómetros de distancia Capannone 4.7 4.7 de 5 burbujas (199) A 0.99 kilómetros de distancia Las mejores atracciones cercanas Ver todo Observatorielunden 3.8 3.8 de 5 burbujas (30) A 0.26 kilómetros de distancia Observatory Museum 3.8 3.8 de 5 burbujas (24) A 0.26 kilómetros de distancia Hey Sthlm 4.0 4 de 5 burbujas (2) A 0.11 kilómetros de distancia Gustav Vasa Kyrka 3.7 3.7 de 5 burbujas (45) A 0.29 kilómetros de distancia ¿Este es su perfil? ¿Es el propietario o administrador de este establecimiento? Solicite su perfil gratis para responder las opiniones, actualizar su perfil y mucho más. Solicite su perfil gratis PASCAL, Estocolmo - Restaurante Opiniones, Menú y Fotos"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

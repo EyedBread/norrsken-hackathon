@@ -1,0 +1,239 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "vete-katten-kungsgatan",
+  "capturedAt": "2026-10-03T12:39:30.004Z",
+  "elapsedMs": 26048,
+  "observations": [
+    {
+      "actor": "clockworks~tiktok-scraper",
+      "runId": "MLE3vZMZP1EHBMz33",
+      "status": "SUCCEEDED",
+      "elapsedMs": 6255,
+      "usageTotalUsd": 0
+    },
+    {
+      "actor": "apify~google-search-scraper",
+      "runId": "jrm4fZyjoTVGaCc4I",
+      "status": "SUCCEEDED",
+      "elapsedMs": 18439,
+      "usageTotalUsd": 0.001
+    }
+  ],
+  "results": {
+    "social": {
+      "items": [
+        {
+          "id": "tiktok:7592704161733414174",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Vete-Katten 📍Stockholm, Sweden #stockholm #sweden #traveltips",
+          "url": "https://www.tiktok.com/@travelwithlyc/video/7592704161733414174",
+          "author": "travelwithlyc",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4tlBF9EEQCIAkXPrefRAANARAV1pDVnEAUECM~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oQEEQfreZAzRDVAQAxgEAMCVtEXFIt8vpGRpAC.image?dr=9634&x-expires=1791201600&x-signature=4XDtE8EHhkayiDixZaDRpUSx2eY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-01-07T19:30:23.000Z",
+          "fetchedAt": "2026-10-03T12:39:10.212Z",
+          "metrics": {
+            "views": 17300,
+            "likes": 993,
+            "comments": 20,
+            "shares": 106
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7592704161733414174:caption:b449019fb9ac",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7592704161733414174",
+              "kind": "caption",
+              "text": "Vete-Katten 📍Stockholm, Sweden #stockholm #sweden #traveltips"
+            },
+            {
+              "id": "tiktok:7592704161733414174:location_tag:07ad2fdd8cca",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7592704161733414174",
+              "kind": "location_tag",
+              "text": "Östermalmstorg, 11442, Stockholm, Sverige, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7612735460846161182",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Vete-Katten📍Stockholm, Sweden #stockholm #sweden #traveltips",
+          "url": "https://www.tiktok.com/@travelwithlyc/video/7612735460846161182",
+          "author": "travelwithlyc",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooiUqAICEiAfrIClA0AA0V5DKBi9S30Bu1bap5~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oYEtEYB0iAAIRCIvAiOrPAqAltBB0i4euKB3mC.image?dr=9634&x-expires=1791201600&x-signature=XnLSN3%2FGVs%2FvU9k%2B9LM1dBio8AU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-03-02T19:02:14.000Z",
+          "fetchedAt": "2026-10-03T12:39:10.212Z",
+          "metrics": {
+            "views": 813,
+            "likes": 38,
+            "comments": 2,
+            "shares": 1
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7612735460846161182:caption:b2c229e4d3b7",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7612735460846161182",
+              "kind": "caption",
+              "text": "Vete-Katten📍Stockholm, Sweden #stockholm #sweden #traveltips"
+            },
+            {
+              "id": "tiktok:7612735460846161182:location_tag:07ad2fdd8cca",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7612735460846161182",
+              "kind": "location_tag",
+              "text": "Östermalmstorg, 11442, Stockholm, Sverige, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7668219744062852373",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Vete-Katten em Estocolmo\n\nA Vete-Katten é uma das confeitarias e cafeterias mais tradicionais e famosas de Estocolmo, na Suécia. Fundada em 1928 por Ester Nordhammar, tornou-se um verdadeiro símbolo d",
+          "url": "https://www.tiktok.com/@amanda_viaja/video/7668219744062852373",
+          "author": "amanda_viaja",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oIfEKEGDgZAC11rFfAqRBAApImVFUaQxvACD9U~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/oIWTnAoTVAEfMJfAQoxfGNeSgfr8gydAiC8AQM.image?dr=9634&x-expires=1791201600&x-signature=9ryq4doHbyWhc0%2BuenkA%2B8HHiuU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-07-30T07:29:06.000Z",
+          "fetchedAt": "2026-10-03T12:39:10.212Z",
+          "metrics": {
+            "views": 1394,
+            "likes": 72,
+            "comments": 0,
+            "shares": 1
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7668219744062852373:caption:09bd4710cd45",
+              "sourceUrl": "https://www.tiktok.com/@amanda_viaja/video/7668219744062852373",
+              "kind": "caption",
+              "text": "Vete-Katten em Estocolmo\n\nA Vete-Katten é uma das confeitarias e cafeterias mais tradicionais e famosas de Estocolmo, na Suécia. Fundada em 1928 por Ester Nordhammar, tornou-se um verdadeiro símbolo da cidade, preservando até hoje o seu ambiente clássico e elegante. A decoração em estilo antigo, com salões aconchegantes e detalhes históricos, faz com que os visitantes sintam que viajaram no tempo.\n\nO local é conhecido pela excelente qualidade dos seus produtos, oferecendo uma grande variedade de pães, bolos, tortas e doces preparados artesanalmente. Entre as especialidades mais apreciadas estão o tradicional pão de canela (kanelbulle), a prinsesstårta (bolo da princesa) e outras sobremesas típicas da confeitaria sueca.\n\nA Vete-Katten também é um dos melhores lugares para vivenciar o fika, uma tradição sueca que consiste em fazer uma pausa para tomar café acompanhado de um doce, aproveitando um momento de descanso e convívio.\n\nLocalizada na rua Kungsgatan, no centro de Estocolmo, a Vete-Katten é uma parada obrigatória para quem deseja conhecer a gastronomia e a cultura sueca em um ambiente histórico e acolhedor. Sua combinação de tradição, qualidade e charme faz dela uma das cafeterias mais icônicas da capital sueca.\n#creatorsearchinsights #cafeshopaesthetic #suecia #estocolmo #brasilierosnoexterior"
+            },
+            {
+              "id": "tiktok:7668219744062852373:location_tag:07ad2fdd8cca",
+              "sourceUrl": "https://www.tiktok.com/@amanda_viaja/video/7668219744062852373",
+              "kind": "location_tag",
+              "text": "Östermalmstorg, 11442, Stockholm, Sverige, Stockholm"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "search": {
+      "items": [
+        {
+          "id": "web:452e20b5cf09e62e3abcd3f6",
+          "type": "article",
+          "source": "web",
+          "title": "VETE-KATTEN, Stockholm - Norrmalm - Restaurant ...",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g189852-d1880334-Reviews-Vete_Katten-Stockholm.html",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:39:28.652Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:452e20b5cf09e62e3abcd3f6:search_snippet:9adfc25bdc9d",
+              "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g189852-d1880334-Reviews-Vete_Katten-Stockholm.html",
+              "kind": "search_snippet",
+              "text": "We went to this Classic institution that did not disappointed at all! The pastries were absolutely the finest we've had in Sweden up-to-date.Read more"
+            }
+          ]
+        },
+        {
+          "id": "web:d73b07cc29ae2d87ed02ccaa",
+          "type": "article",
+          "source": "web",
+          "title": "VETE-KATTEN, Stockholm - Norrmalm - Restaurant ...",
+          "url": "https://www.tripadvisor.ie/Restaurant_Review-g189852-d1880334-Reviews-or30-Vete_Katten-Stockholm.html",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:39:28.652Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:d73b07cc29ae2d87ed02ccaa:search_snippet:d9426180c63d",
+              "sourceUrl": "https://www.tripadvisor.ie/Restaurant_Review-g189852-d1880334-Reviews-or30-Vete_Katten-Stockholm.html",
+              "kind": "search_snippet",
+              "text": "Very busy cafe, we visited around 3pm on a Saturday and the place was heaving, we struggled to find a seat after we had purchased our coffee & cake.Read more"
+            }
+          ]
+        },
+        {
+          "id": "web:224a582638e6b02a5a65128f",
+          "type": "article",
+          "source": "web",
+          "title": "Vete-Katten - Kungsgatan 55, Stockholm, Sweden",
+          "url": "https://www.yelp.com/biz/vete-katten-stockholm",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:39:28.652Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:224a582638e6b02a5a65128f:search_snippet:eec509932b20",
+              "sourceUrl": "https://www.yelp.com/biz/vete-katten-stockholm",
+              "kind": "search_snippet",
+              "text": "Excellent and quick service. There is a wide variety of pastries, cakes, breads, buns, sandwiches, coffee drinks and smoothies. Everything is very fresh. For a ...Read more"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "article": {
+      "items": [
+        {
+          "id": "web:452e20b5cf09e62e3abcd3f6",
+          "type": "article",
+          "source": "web",
+          "title": "VETE-KATTEN, Stockholm - Norrmalm - Restaurant Reviews, Photos & Phone Number - Tripadvisor",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g189852-d1880334-Reviews-Vete_Katten-Stockholm.html",
+          "author": null,
+          "thumbnailUrl": "https://media-cdn.tripadvisor.com/media/photo-w/08/5f/e7/2b/very-nice-shop-and-cafe.jpg",
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:39:29.995Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:452e20b5cf09e62e3abcd3f6:search_snippet:9adfc25bdc9d",
+              "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g189852-d1880334-Reviews-Vete_Katten-Stockholm.html",
+              "kind": "search_snippet",
+              "text": "We went to this Classic institution that did not disappointed at all! The pastries were absolutely the finest we've had in Sweden up-to-date.Read more"
+            },
+            {
+              "id": "web:452e20b5cf09e62e3abcd3f6:article_text:07a82beae363",
+              "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g189852-d1880334-Reviews-Vete_Katten-Stockholm.html",
+              "kind": "article_text",
+              "text": "Europe Sweden Stockholm County Stockholm Stockholm Restaurants Vete-Katten Vete-Katten Unclaimed This business is unclaimed. Owners who claim their business can update listing details, add photos, respond to reviews, and more. Claim your free listing now Save Review 4.3 4.3 of 5 bubbles (1,566 reviews) #1 of 193 Coffee & Tea Spots in Stockholm Bakeries , Cafe , $$ - $$$ 1,132 What is Travelers’ Choice? Tripadvisor gives a Travelers’ Choice award to accommodations, attractions and restaurants that consistently earn great reviews from travelers and are ranked within the top 10% of properties on Tripadvisor. Interior 214 Food 671 Menu 8 Vete-Katten At a glance Open until 7:00 PM See all hours Kungsgatan 55, Stockholm 111 22 Sweden Website +46 8 20 84 05 Improve this listing About Travelers' Choice 2026 Features CUISINES Cafe, European, Swedish, Scandinavian Meal types Breakfast, Lunch, Brunch Special Diets Vegetarian friendly, Vegan options, Gluten free options FEATURES Accepts Credit Cards Highchairs Available Seating Takeout Wheelchair Accessible Why travelers love this The most recent 5-bubble reviews, displayed for restaurants rated as very good or higher. See all reviews below for more information. Some reviews may have been automatically translated. 4.3 4.3 of 5 bubbles (1,566 reviews) Joss C · Sep 2026 We had lunch here. We both ordered the cheese and ham pie. Which was a quiche. It was very tasty. We sat outside watching the world go by. A very enjoyable lunch. 😊 Read more ElyRo78 · Sep 2026 Pleasant atmosphere and delicious food. Read more Pat · May 2026 Wonderful cafe, delicious cakes and drinks. Well located, lovely friendly staff. Read more Merluzzo1 · May 2026 Excellent pastry shop in central Stockholm. Well stocked with fresh cakes and pastries. Historic pastry shop and always very crowded Read more Fanny · Feb 2026 Just an excellent pastry with also beautiful salads. the cinnamon brioche as well as the cheesecake are succulent Read more Andreas G · Feb 2026 Nice coffee house, very popular also among Stockholmians, so quite crowded at times, great coffee, swedish pastry. Go there and enjoy Read more Oskar W · Feb 2026 Excellent service! Really good semla and airy salon for everyone to sit without crowds. We bought semlor that was amazing and ordered cake for birthday that also became favorite Read more Birgitta-Kenneth · Jan 2026 This one has been around forever and is still extremely worthwhile to visit for coffee, cinnamon buns, lunch at any time of the day. Don't miss it cause this is classic Swedish FIKA Read more gözde · Nov 2025 My favorite place was.The pastries are delicious, the princess cake is a little overrated, the sour taste may not appeal to everyone, but the products are generally delicious.The crowds are usually difficult to find 😂 There’s coffee on the side and you can grab it for free, which gave me a bonus Rating 🙂 Personal de sympathetic Prices are good and there are more expensive cafes Read more Jamie B · Sep 2025 We stopped here for a light lunch, which we shared, because we focus on the Princess cake!! The other desserts also looked delicious. Busy place, worth the wait. Read more Location Kungsgatan 55, Stockholm 111 22 Sweden Norrmalm Save this restaurant Save Hours Suggest an edit Open until 7:00 PM Sunday 9:00 AM - 7:00 PM Monday 7:30 AM - 8:00 PM Tuesday 7:30 AM - 8:00 PM Wednesday 7:30 AM - 8:00 PM Thursday 7:30 AM - 8:00 PM Friday 7:30 AM - 8:00 PM Saturday 9:00 AM - 7:00 PM More ways to explore nearby Swedish Fika and Pastry Food Tour in Stockholm 3.9 3.9 of 5 bubbles (17) from $89 per adult Stockholm Small Group Food Tour with 7 Classic Food Tastings 4.9 4.9 of 5 bubbles (222) from $131 per adult Guided Swedish Food Walking Tour in Stockholm 4.9 4.9 of 5 bubbles (102) from $119 per adult Stockholm Private Walking Food Tour with 7 Food Tastings 5.0 5 of 5 bubbles (16) from $258 per adult Stockholm Food Tour 4.5 4.5 of 5 bubbles (210) from $112 per adult Vasa Museum Guided Tour, Including Ticket & Guide 4.9 4.9 of 5 bubbles (247) from $57 per adult Private Stockholm Fika Tour with a Local: Coffee, Culture & Cafés 5.0 5 of 5 bubbles (2) from $143 per adult Stockholm Scavenger Hunt & Highlights Self-Guided Walking Tour 4.7 4.7 of 5 bubbles (7) from $3 per adult Reviews Tips/Q&A (13) All reviews (1,566) Write a review 4.3 Very Good (1,566) Excellent 807 Good 553 Average 145 Poor 34 Terrible 27 Service 4.1 Food 4.4 Value 4.0 Atmosphere 4.3 Traveler photos (1,127) Add photos Very nice Shop and Café Very nice Shop and Café Cakes, pastries Cakes, pastries Cakes and pasteries Cakes and pasteries Nice cafeteria menu Nice cafeteria menu Theke um Cafe Theke um Cafe Great variety Great variety See all photos All reviews (1,566) Write a review Reviews are the subjective opinion of Tripadvisor members and not of Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our industry-leading trust & safety standards. Read our transparency report to learn more. Filters (1) Sort by: Most recent Most recent Reviews ordered by most recent publish date in descending order. Detailed reviews Reviews ordered by recency and descriptiveness of user-identified themes such as wait time, length of visit, general tips, and location information. Popular mentions cakes pastry cinnamon buns salad quiche princess cake great coffee self service swedish coffee bakery cream vanilla Nuno F Lisbon, Portugal 239 contributions 0 Classic fika! Sep 2026 • Family Coffee break for \"Fika\" in a classic and cozy space (busy but with several rooms). We tried the Princess Cake and the \"mascavado\" cake, both delicious, but... The service was effective and friendly. Tack! Read more Translated from Portuguese Show original Written September 30, 2026 Joss C Ipswich, United Kingdom 385 contributions 0 Pie = Quiche! Sep 2026 • Couples We had lunch here. We both ordered the cheese and ham pie. Which was a quiche. It was very tasty. We sat outside watching the world go by. A very enjoyable lunch. 😊 Read more Written September 11, 2026 ElyRo78 Mexico 340 contributions 0 Good experience Aug 2026 • Family Pleasant atmosphere and delicious food. Read more Translated from Spanish Show original Written September 9, 2026 Prof c 7 contributions 0 Everything beautiful!!! Aug 2026 • Friends Beautiful retro atmosphere, very kind staff, beautiful desserts. A must-try! Read more Value Service Food Atmosphere Translated from Italian Show original Written August 18, 2026 Bf2ivanhoe Stockholm, Sweden 103 contributions 0 Good pastry chef but bad barista Aug 2026 • Business Amazing pastries but average barista. Cappuccino is way too hot which understands the milk. Too bad otherwise pleasant experience. Read more Translated from Swedish Show original Written August 10, 2026 simmyh1430 Oslo, Norway 33 contributions 0 Good back Jul 2026 • Couples Very good to choose from, almost impossible to choose. The choice fell on cheesecake and some chocolate variant. Both are very good. A bit expensive. Read more Value Service Food Atmosphere Translated from Norwegian Show original Written August 3, 2026 Elaine T 8 contributions 0 Lovely lunch May 2026 • Couples Inside and outdoor seating. Fantastic salads and open sandwiches and you can watch the dough being made. Couldn't manage a cake but they looked so pretty! Read more Written May 23, 2026 Pat Kent, United Kingdom 484 contributions 0 Lovely cafe and cake shop May 2026 • Couples Wonderful cafe, delicious cakes and drinks. Well located, lovely friendly staff. Read more Written May 19, 2026 Johanna B 5 contributions 1 Good selection, but not always so good service. May 2026 • Couples Wheat Cat is a well-known name among Stockholm’s cafés, but the service is mixed. Depending on the café you visit and the staff that responds, it can be perceived as very different quality of treatment and service. Read more Translated from Swedish Show original Written May 6, 2026 Merluzzo1 Province of Piacenza, Italy 388 contributions 0 Excellent bakery in central Stockholm May 2026 • Couples Excellent pastry shop in central Stockholm. Well stocked with fresh cakes and pastries. Historic pastry shop and always very crowded Read more Translated from Italian Show original Written May 3, 2026 Wanina78 Zurich, Switzerland 140 contributions 0 Very unfriendly service/bad coffee Apr 2026 • Couples The service was very unfriendly and annoyed. The cappuccino with oat milk was inedible and I didn't like the atmosphere at all. I'm never coming back here! Read more Translated from German Show original Written April 11, 2026 okkopay Payerne, Switzerland 242 contributions 0 FIKA Break in Kungsgatan Apr 2026 • Family First experience for an afternoon break real maze of rooms. We enjoyed Read more Translated from French Show original Written April 11, 2026 Blev B 1 contribution 0 Unpleasant staff Mar 2026 • Friends Very poor service staff was very unpleasant and would stand and giggle at everything you said especially he young guy with the glasses. Then it's not true that they have vegetarian and gluten free. Asked nicely what they had to offer and they laughed and said that they had cold drink…. Then it takes 30-40 minutes to get a table. Not worth there are much cozier coffee shops in town that are worth the money Read more Translated from Swedish Show original Written April 3, 2026 Wäinö Jatko Stockholm, Sweden 62 contributions 0 A quality café that we gladly revisit Jan 2026 • Couples A chain of cafés in Stockholm, we visited it on S:t Etiksgatan, good coffee and a large selection of cookies etc. Very friendly staff. The room is airy and nice. Read more Translated from Swedish Show original Written March 23, 2026 Charlye a 2 contributions 0 Everything was good much to choose from Mar 2026 • Family Good food a nice 20th century decor and so many choices at first we thought there would only be sandwiches for breakfast but there was everything from chia pudding to fruit salad Read more Translated from Swedish Show original Written March 15, 2026 1 2 3 4 5 6 … Showing results 1-15 of 723 Related Stories 12 pet-friendly getaways we love Dec 11, 2025 • 4 min read Your dog deserves a vacation, too. Consider these pet-friendly trip ideas around the world. By Noah Cortez European destinations worth seeing (and saving for) May 29, 2025 • 5 min read Escape to Madrid on a city break that goes the extra mile, or take that White Lotus-inspired trip to Italy that you’ve been dreaming about for months. Whatever you’ve been saving for and wherever you go, Monzo can help you get the most out of every penny you’ve earned. 13 places to see cherry blossoms around the world Feb 6, 2024 • 6 min read Sakura season is almost here, and we’ve found 13 top places to see cherry blossoms around the world—from Tokyo to Washington D.C. and beyond. By Noah Cortez Best coffee and tea places See all Chokladkoppen 4.1 4.1 of 5 bubbles (974 reviews) Cafe • $$ - $$$ Open now Alskade Traditioner 4.4 4.4 of 5 bubbles (220 reviews) Cafe • $$ - $$$ Open now Cykelcafé Le Mond 4.5 4.5 of 5 bubbles (192 reviews) Cafe • $$ - $$$ Open now Espresso Sosta Bar 4.6 4.6 of 5 bubbles (250 reviews) Italian • $$ - $$$ Open now Kaffekoppen 4.0 4 of 5 bubbles (442 reviews) Cafe • $$ - $$$ Open now Skeppsbro Korv 4.5 4.5 of 5 bubbles (88 reviews) Cafe • $$ - $$$ Open now Fabrique Stenugnsbageri 4.4 4.4 of 5 bubbles (173 reviews) Cafe • $$ - $$$ Open now Sundbergs Konditori 3.9 3.9 of 5 bubbles (394 reviews) Cafe • $$ - $$$ Open now Cafè Kladdkakan 4.1 4.1 of 5 bubbles (238 reviews) Cafe • $$ - $$$ Open now Espresso House 4.1 4.1 of 5 bubbles (449 reviews) Cafe • $$ - $$$ Open now Best nearby We rank these hotels, restaurants, and attractions by balancing reviews from our members with how close they are to this location. Norrmalm Norrmalm is Stockholm’s most central and busiest neighborhood. It’s home to the main shopping street, Drottninggatan, and to Stockholm icons like the Sergels Torg glass obelisk, the famous Hay Market with its Carl Milles sculptures, and the Hötorget Skyscrapers, a sight on every other Stockholm postcard. Norrmalm is also home to Sweden’s most traditional department stores Nordiska Kompaniet and Åhléns City juxtaposed with Stockholm’s most modern shopping mall, Mood Stockholm. Visitors to this area get to experience the unique Swedish philosophy of protecting cultural heritage while also staying on top of fashion innovation and modern architecture. Read more Best nearby hotels See all Nordic Light Hotel 4.6 4.6 of 5 bubbles (1,202) 0.11 miles away Miss Clara by Nobis 4.6 4.6 of 5 bubbles (1,000) 0.27 miles away City Backpackers Hostel 4.5 4.5 of 5 bubbles (1,292) 0.16 miles away Freys Hotel 4.3 4.3 of 5 bubbles (2,419) 0.09 miles away Best nearby restaurants See all Bistro Bestick 4.6 4.6 of 5 bubbles (2,019) 0.08 miles away Frantzén 4.8 4.8 of 5 bubbles (236) 0.02 miles away Kajsas Fisk 4.5 4.5 of 5 bubbles (1,395) 0.14 miles away Weidao 4.4 4.4 of 5 bubbles (368) 0.15 miles away Best nearby attractions See all Kungsgatan 3.8 3.8 of 5 bubbles (5) 0.02 miles away Drottninggatan 3.6 3.6 of 5 bubbles (259) 0.09 miles away Oscarsteatern 4.2 4.2 of 5 bubbles (87) 0.09 miles away Hillsong Church Stockholm 4.7 4.7 of 5 bubbles (18) 0.08 miles away Is This Your Listing? Own or manage this property? Claim your listing for free to respond to reviews, update your profile and much more. Claim Your Free Listing VETE-KATTEN, Stockholm - Norrmalm - Restaurant Reviews, Photos & Phone Number - Tripadvisor"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

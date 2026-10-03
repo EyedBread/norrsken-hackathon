@@ -1,0 +1,102 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "stora-bageriet-ostermalm",
+  "queryOverride": null,
+  "capturedAt": "2026-10-03T12:46:11.299Z",
+  "elapsedMs": 26256,
+  "observations": [
+    {
+      "actor": "apify~google-search-scraper",
+      "runId": "0pgvUaGT44pDdF3lZ",
+      "status": "SUCCEEDED",
+      "elapsedMs": 25686,
+      "usageTotalUsd": 0.001
+    }
+  ],
+  "results": {
+    "search": {
+      "items": [
+        {
+          "id": "web:8d3c7c0a935ace392a3420fc",
+          "type": "article",
+          "source": "web",
+          "title": "Stora bageriet in Stockholm - Ask AI",
+          "url": "https://mindtrip.ai/attraction/stockholm-county/stora-bageriet/at-cyNZaHt0",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:46:10.729Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:8d3c7c0a935ace392a3420fc:search_snippet:c6b5043973a0",
+              "sourceUrl": "https://mindtrip.ai/attraction/stockholm-county/stora-bageriet/at-cyNZaHt0",
+              "kind": "search_snippet",
+              "text": "Stora Bageriet in Stockholm features modern and cozy interiors, sometimes lacking in natural light, but has plenty of outdoor seating.Read more"
+            }
+          ]
+        },
+        {
+          "id": "web:f19505478e0d6406424c31de",
+          "type": "article",
+          "source": "web",
+          "title": "Exploring Stockholm's Coffee Scene",
+          "url": "https://sekarwrites.com/exploring-stockholms-coffee-scene/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:46:10.729Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:f19505478e0d6406424c31de:search_snippet:aaf01d9a9a94",
+              "sourceUrl": "https://sekarwrites.com/exploring-stockholms-coffee-scene/",
+              "kind": "search_snippet",
+              "text": "Specializing in baked goods, Stora Bageriet was one of my breakfast spots during the trip. I ordered a saltad vaniljbulle, a pastry I had ...Read more"
+            }
+          ]
+        },
+        {
+          "id": "web:af740340d99fb678aac1cae6",
+          "type": "article",
+          "source": "web",
+          "title": "Cafes where you can stay for a long time in Östermalm - Thatsup",
+          "url": "https://thatsup.co.uk/stockholm/explore/%C3%B6stermalm/cafe/stay-long",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:46:10.729Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": []
+        }
+      ],
+      "errors": []
+    },
+    "article": {
+      "items": [],
+      "errors": [
+        {
+          "source": "web",
+          "code": "ARTICLE_UNREADABLE",
+          "message": "Page did not provide readable article text."
+        }
+      ]
+    }
+  }
+}

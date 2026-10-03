@@ -1,0 +1,59 @@
+[
+  {
+    "key": "vete-katten-kungsgatan",
+    "name": "Vete-Katten",
+    "address": "Kungsgatan 55, 111 22 Stockholm",
+    "city": "Stockholm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vete-Katten%20Kungsgatan%2055%20Stockholm",
+    "queries": [
+      "Vete Katten Kungsgatan 55",
+      "Vete Katten Stockholm fika"
+    ],
+    "articleSeedUrl": "https://www.visitstockholm.com/o/vetekatten/",
+    "identitySource": "https://www.visitstockholm.com/o/vetekatten/",
+    "socialCoverage": "two-branch-supported-candidates-verified",
+    "preferredSocialIds": [
+      "tiktok:7648748209669491982",
+      "tiktok:7515060034896809258"
+    ],
+    "articleCoverage": "public-article-fetched"
+  },
+  {
+    "key": "cafe-pascal-vasastan",
+    "name": "Café Pascal Vasastan",
+    "address": "Norrtullsgatan 4, 113 29 Stockholm",
+    "city": "Stockholm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Pascal%20Norrtullsgatan%204%20Stockholm",
+    "queries": [
+      "Cafe Pascal Norrtullsgatan",
+      "Cafe Pascal Stockholm Odenplan"
+    ],
+    "articleSeedUrl": "https://www.visitstockholm.com/o/cafe-pascal/",
+    "identitySource": "https://www.visitstockholm.com/o/cafe-pascal/",
+    "socialCoverage": "two-branch-supported-candidates-verified",
+    "preferredSocialIds": [
+      "tiktok:7558092215805938966",
+      "tiktok:7527301939311267094"
+    ],
+    "articleCoverage": "public-article-fetched"
+  },
+  {
+    "key": "stora-bageriet-ostermalm",
+    "name": "Stora Bageriet Östermalm",
+    "address": "Sibyllegatan 2, 114 51 Stockholm",
+    "city": "Stockholm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stora%20Bageriet%20Sibyllegatan%202%20Stockholm",
+    "queries": [
+      "Stora Bageriet Sibyllegatan",
+      "Stora Bageriet Ostermalm"
+    ],
+    "articleSeedUrl": "https://www.visitstockholm.com/o/stora-bageriet-ostermalm/",
+    "identitySource": "https://storabageriet.com/pages/locations",
+    "socialCoverage": "two-branch-supported-candidates-verified",
+    "preferredSocialIds": [
+      "tiktok:7381445686920793376",
+      "tiktok:7593065151616552194"
+    ],
+    "articleCoverage": "public-article-fetched"
+  }
+]
