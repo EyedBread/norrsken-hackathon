@@ -1,0 +1,41 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "curated-public-url",
+  "venueKey": "svedjan-bageri-sodermalm",
+  "queryOverride": null,
+  "capturedAt": "2026-10-03T12:42:36.260Z",
+  "elapsedMs": 451,
+  "observations": [],
+  "results": {
+    "article": {
+      "items": [
+        {
+          "id": "web:ac3612e4255187e074ecdca7",
+          "type": "article",
+          "source": "web",
+          "title": "Svedjan Bageri | Visit Stockholm",
+          "url": "https://www.visitstockholm.com/o/svedjan-bageri/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:42:36.257Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:ac3612e4255187e074ecdca7:article_text:41ecfa64754d",
+              "sourceUrl": "https://www.visitstockholm.com/o/svedjan-bageri/",
+              "kind": "article_text",
+              "text": "Categories: Café Svedjan Bageri Visit Stockholm Svedjan offers its patrons a taste of northern Sweden. Since 2020, the bakery/café offers home-made sandwiches, exquisite pastries, and freshly brewed coffee. All dairy products used are from the eponymous farm, managed by the owners parents. Getting there Location icon Brännkyrkagatan 93 117 26 Stockholm Open in google maps External link icon External link icon instagram.com Share icon Share Save Bookmark icon Save Explore related guides Categories: Cafés, Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Cafés Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Arrow icon Categories: Cafés, Breakfast spots in Stockholm Cafés Breakfast spots in Stockholm Arrow icon Categories: Cafés, The best cafés on Södermalm Cafés The best cafés on Södermalm Arrow icon Categories: Cafés, Lakis Psomas: My 5 best coffee experiences in Stockholm Cafés Lakis Psomas: My 5 best coffee experiences in Stockholm Arrow icon"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

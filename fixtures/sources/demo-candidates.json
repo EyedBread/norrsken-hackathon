@@ -1,0 +1,651 @@
+{
+  "mode": "cache",
+  "description": "Real historical source captures, not final Gemini decisions. Display fetchedAt when replaying.",
+  "venues": [
+    {
+      "place": {
+        "key": "vete-katten-kungsgatan",
+        "name": "Vete-Katten",
+        "address": "Kungsgatan 55, 111 22 Stockholm",
+        "city": "Stockholm",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vete-Katten%20Kungsgatan%2055%20Stockholm"
+      },
+      "discovery": "live TikTok search and curated public article URL",
+      "socialCapturedAt": "2026-10-03T12:42:18.993Z",
+      "articleCapturedAt": "2026-10-03T12:42:35.204Z",
+      "candidates": [
+        {
+          "id": "tiktok:7648748209669491982",
+          "type": "video",
+          "source": "tiktok",
+          "title": "amazing 10/10 #stockholm #fyp #sweden",
+          "url": "https://www.tiktok.com/@juliet.maczuba/video/7648748209669491982",
+          "author": "juliet.maczuba",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/okgLmEcfqDYQ0ja8ADBlI9oJFB9ESIfRBEKDlE~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=8YDxadcqQ2mp7ZO%2BQrZgIx4IqyQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "publishedAt": "2026-06-07T20:09:57.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.990Z",
+          "metrics": {
+            "views": 1908,
+            "likes": 51,
+            "comments": 2,
+            "shares": 8
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7648748209669491982:caption:c123f84d8851",
+              "sourceUrl": "https://www.tiktok.com/@juliet.maczuba/video/7648748209669491982",
+              "kind": "caption",
+              "text": "amazing 10/10 #stockholm #fyp #sweden"
+            },
+            {
+              "id": "tiktok:7648748209669491982:location_tag:0f95dea75904",
+              "sourceUrl": "https://www.tiktok.com/@juliet.maczuba/video/7648748209669491982",
+              "kind": "location_tag",
+              "text": "Vete-Katten Kungsgatan, Kungsgatan 55, 111 22 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7631404037887298846",
+          "type": "video",
+          "source": "tiktok",
+          "title": "📍Vete-Katten  #StockholmCafe #StockholmTravel #StockholmGuide #SwedenTravel #visitstockholm",
+          "url": "https://www.tiktok.com/@travelwithlyc/video/7631404037887298846",
+          "author": "travelwithlyc",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o40e757MI7gWAW2CIj0oEiACDIiZcqvjRA0Bxi~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/ok9ANBiBZHBAI3A4jZA6iGoif1KAD0ICMTEIRy.image?dr=9634&x-expires=1791201600&x-signature=eUZls9LE3Ugq3yp4N%2FkK32cXiXA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "publishedAt": "2026-04-22T02:25:22.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.990Z",
+          "metrics": {
+            "views": 4006,
+            "likes": 90,
+            "comments": 1,
+            "shares": 22
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7631404037887298846:caption:e5d1384f97b0",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7631404037887298846",
+              "kind": "caption",
+              "text": "📍Vete-Katten  #StockholmCafe #StockholmTravel #StockholmGuide #SwedenTravel #visitstockholm"
+            },
+            {
+              "id": "tiktok:7631404037887298846:location_tag:9559d49b890e",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7631404037887298846",
+              "kind": "location_tag",
+              "text": "Stockholm, Stockholm, Sweden"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7515060034896809258",
+          "type": "video",
+          "source": "tiktok",
+          "title": "A true Stockholm classic. Open since 1928, Vete-Katten does it all: crisp pastries, quiet fika moments, and enough old-world charm to make you stay for seconds.\n📍Vete-Katten, Kungsgatan\n#StockholmEats",
+          "url": "https://www.tiktok.com/@lostin_travel/video/7515060034896809258",
+          "author": "lostin_travel",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oY1C0fWKKwsIBP5IAT5iAlAp2BJiE3qU0x2tNp~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=KV4KJfeAGmRLiKTA6GT%2BL7ARIys%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "publishedAt": "2025-06-12T13:51:24.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.990Z",
+          "metrics": {
+            "views": 1392,
+            "likes": 36,
+            "comments": 0,
+            "shares": 5
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7515060034896809258:caption:0dd037a84e43",
+              "sourceUrl": "https://www.tiktok.com/@lostin_travel/video/7515060034896809258",
+              "kind": "caption",
+              "text": "A true Stockholm classic. Open since 1928, Vete-Katten does it all: crisp pastries, quiet fika moments, and enough old-world charm to make you stay for seconds.\n📍Vete-Katten, Kungsgatan\n#StockholmEats #FikaTime #VeteKatten #LostInStockholm #CafeCulture #SwedishTradition #LostInGuides #CitySnacks"
+            },
+            {
+              "id": "tiktok:7515060034896809258:location_tag:9559d49b890e",
+              "sourceUrl": "https://www.tiktok.com/@lostin_travel/video/7515060034896809258",
+              "kind": "location_tag",
+              "text": "Stockholm, Stockholm, Sweden"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7612735460846161182",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Vete-Katten📍Stockholm, Sweden #stockholm #sweden #traveltips",
+          "url": "https://www.tiktok.com/@travelwithlyc/video/7612735460846161182",
+          "author": "travelwithlyc",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooiUqAICEiAfrIClA0AA0V5DKBi9S30Bu1bap5~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oYEtEYB0iAAIRCIvAiOrPAqAltBB0i4euKB3mC.image?dr=9634&x-expires=1791201600&x-signature=XnLSN3%2FGVs%2FvU9k%2B9LM1dBio8AU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "publishedAt": "2026-03-02T19:02:14.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.990Z",
+          "metrics": {
+            "views": 813,
+            "likes": 38,
+            "comments": 2,
+            "shares": 1
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7612735460846161182:caption:b2c229e4d3b7",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7612735460846161182",
+              "kind": "caption",
+              "text": "Vete-Katten📍Stockholm, Sweden #stockholm #sweden #traveltips"
+            },
+            {
+              "id": "tiktok:7612735460846161182:location_tag:1d7de8255e1c",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7612735460846161182",
+              "kind": "location_tag",
+              "text": "Vete-Katten, Östermalmstorg, 11442, Stockholm, Sverige, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7592704161733414174",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Vete-Katten 📍Stockholm, Sweden #stockholm #sweden #traveltips",
+          "url": "https://www.tiktok.com/@travelwithlyc/video/7592704161733414174",
+          "author": "travelwithlyc",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4tlBF9EEQCIAkXPrefRAANARAV1pDVnEAUECM~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/oQEEQfreZAzRDVAQAxgEAMCVtEXFIt8vpGRpAC.image?dr=9634&x-expires=1791201600&x-signature=4XDtE8EHhkayiDixZaDRpUSx2eY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "publishedAt": "2026-01-07T19:30:23.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.990Z",
+          "metrics": {
+            "views": 17300,
+            "likes": 993,
+            "comments": 20,
+            "shares": 106
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7592704161733414174:caption:b449019fb9ac",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7592704161733414174",
+              "kind": "caption",
+              "text": "Vete-Katten 📍Stockholm, Sweden #stockholm #sweden #traveltips"
+            },
+            {
+              "id": "tiktok:7592704161733414174:location_tag:1d7de8255e1c",
+              "sourceUrl": "https://www.tiktok.com/@travelwithlyc/video/7592704161733414174",
+              "kind": "location_tag",
+              "text": "Vete-Katten, Östermalmstorg, 11442, Stockholm, Sverige, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7668219744062852373",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Vete-Katten em Estocolmo\n\nA Vete-Katten é uma das confeitarias e cafeterias mais tradicionais e famosas de Estocolmo, na Suécia. Fundada em 1928 por Ester Nordhammar, tornou-se um verdadeiro símbolo d",
+          "url": "https://www.tiktok.com/@amanda_viaja/video/7668219744062852373",
+          "author": "amanda_viaja",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oIfEKEGDgZAC11rFfAqRBAApImVFUaQxvACD9U~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/oIWTnAoTVAEfMJfAQoxfGNeSgfr8gydAiC8AQM.image?dr=9634&x-expires=1791201600&x-signature=9ryq4doHbyWhc0%2BuenkA%2B8HHiuU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "publishedAt": "2026-07-30T07:29:06.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.990Z",
+          "metrics": {
+            "views": 1394,
+            "likes": 72,
+            "comments": 0,
+            "shares": 1
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7668219744062852373:caption:09bd4710cd45",
+              "sourceUrl": "https://www.tiktok.com/@amanda_viaja/video/7668219744062852373",
+              "kind": "caption",
+              "text": "Vete-Katten em Estocolmo\n\nA Vete-Katten é uma das confeitarias e cafeterias mais tradicionais e famosas de Estocolmo, na Suécia. Fundada em 1928 por Ester Nordhammar, tornou-se um verdadeiro símbolo da cidade, preservando até hoje o seu ambiente clássico e elegante. A decoração em estilo antigo, com salões aconchegantes e detalhes históricos, faz com que os visitantes sintam que viajaram no tempo.\n\nO local é conhecido pela excelente qualidade dos seus produtos, oferecendo uma grande variedade de pães, bolos, tortas e doces preparados artesanalmente. Entre as especialidades mais apreciadas estão o tradicional pão de canela (kanelbulle), a prinsesstårta (bolo da princesa) e outras sobremesas típicas da confeitaria sueca.\n\nA Vete-Katten também é um dos melhores lugares para vivenciar o fika, uma tradição sueca que consiste em fazer uma pausa para tomar café acompanhado de um doce, aproveitando um momento de descanso e convívio.\n\nLocalizada na rua Kungsgatan, no centro de Estocolmo, a Vete-Katten é uma parada obrigatória para quem deseja conhecer a gastronomia e a cultura sueca em um ambiente histórico e acolhedor. Sua combinação de tradição, qualidade e charme faz dela uma das cafeterias mais icônicas da capital sueca.\n#creatorsearchinsights #cafeshopaesthetic #suecia #estocolmo #brasilierosnoexterior"
+            },
+            {
+              "id": "tiktok:7668219744062852373:location_tag:1d7de8255e1c",
+              "sourceUrl": "https://www.tiktok.com/@amanda_viaja/video/7668219744062852373",
+              "kind": "location_tag",
+              "text": "Vete-Katten, Östermalmstorg, 11442, Stockholm, Sverige, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "web:ff2f27ed48bf9709fcfbab12",
+          "type": "article",
+          "source": "web",
+          "title": "Vetekatten Kungsgatan | Visit Stockholm",
+          "url": "https://www.visitstockholm.com/o/vetekatten/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:42:35.200Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:ff2f27ed48bf9709fcfbab12:article_text:cbd7b84414fd",
+              "sourceUrl": "https://www.visitstockholm.com/o/vetekatten/",
+              "kind": "article_text",
+              "text": "Categories: Coffee Shop / Café Vetekatten Kungsgatan Susanna Blåvarg Vetekatten in central Stockholm is a coffee-and-pastry institution. A well-preserved, tradition-packed café where you can sample traditional Swedish pastries of superior quality. They have six branches throughout the city and their first has been open, almost every day, since opening its door at Kungsgatan 55 in 1928. Getting there Location icon Kungsgatan 55 111 22 Stockholm Open in google maps External link icon Phone icon +46(0)8-20 84 05 Mail icon info@vetekatten.se External link icon http://www.vetekatten.se/ Share icon Share Save Bookmark icon Save Explore related guides Categories: Restaurants, Five places to enjoy a working lunch in Stockholm Restaurants Five places to enjoy a working lunch in Stockholm Arrow icon Categories: Cafés, Dona Hariri – the walking link between Södermalm and the suburbs Cafés Dona Hariri – the walking link between Södermalm and the suburbs Arrow icon Categories: Cafés, A fika evergreen – the Princess cake Cafés A fika evergreen – the Princess cake Arrow icon Categories: Cafés, An audience with the queen of cakes: Monika Ahlberg Cafés An audience with the queen of cakes: Monika Ahlberg Arrow icon Categories: Cafés, Fat Tuesday – the day of the Semla 2026 Cafés Fat Tuesday – the day of the Semla 2026 Arrow icon Categories: Cafés, Where to go for Afternoon Tea in Stockholm Cafés Where to go for Afternoon Tea in Stockholm Arrow icon Categories: Cafés, Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Cafés Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Arrow icon Categories: Cafés, Cafés in Norrmalm Cafés Cafés in Norrmalm Arrow icon Categories: Cafés, A fika or lunch under the cherry blossoms Cafés A fika or lunch under the cherry blossoms Arrow icon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "place": {
+        "key": "cafe-pascal-vasastan",
+        "name": "Café Pascal Vasastan",
+        "address": "Norrtullsgatan 4, 113 29 Stockholm",
+        "city": "Stockholm",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Pascal%20Norrtullsgatan%204%20Stockholm"
+      },
+      "discovery": "live TikTok search and curated public article URL",
+      "socialCapturedAt": "2026-10-03T12:42:23.385Z",
+      "articleCapturedAt": "2026-10-03T12:42:36.614Z",
+      "candidates": [
+        {
+          "id": "tiktok:7558092215805938966",
+          "type": "video",
+          "source": "tiktok",
+          "title": "📍Café Pascal - Norrtullsgatan 4\n\nEtt mysigt och hemtrevligt kafé som serverar gott fikabröd och fräscha frukostar – perfekt för oss småbarnsföräldrar som vaknar tidigt 🥐☕️\n\nDet finns gott om plats med",
+          "url": "https://www.tiktok.com/@barn.vnligt.sthlm/video/7558092215805938966",
+          "author": "barn.vnligt.sthlm",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oISvAi8bODBBNj9O7aC3IZnI8iQvvdBEuSYG3~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=JfWS50KRf%2ByrQR0yG9MWarJS7I0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2025-10-06T12:58:02.000Z",
+          "fetchedAt": "2026-10-03T12:42:23.382Z",
+          "metrics": {
+            "views": 10200,
+            "likes": 69,
+            "comments": 2,
+            "shares": 21
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7558092215805938966:caption:b81f8b5bbaa7",
+              "sourceUrl": "https://www.tiktok.com/@barn.vnligt.sthlm/video/7558092215805938966",
+              "kind": "caption",
+              "text": "📍Café Pascal - Norrtullsgatan 4\n\nEtt mysigt och hemtrevligt kafé som serverar gott fikabröd och fräscha frukostar – perfekt för oss småbarnsföräldrar som vaknar tidigt 🥐☕️\n\nDet finns gott om plats med större bord och ytor där barnvagnen får plats, och det finns även barnstol. Däremot kan det vara en liten utmaning att ta sig in, eftersom ingången har en hög kant.\n\n🚾 Toaletten är ren och fräsch, men lite trång – barnvagnen får stå utanför. Det finns tyvärr inget skötbord.\n\n🗓️ Öppettider:\nMåndag–torsdag: 07:00–19:00\nFredag:  07:00–18:00\nLördag–söndag: 08:00–17:00\n\n💸 Prisexempel:\n\t• Kanelbulle: 45 kr\n\t• Bryggkaffe och fralla: 89 kr\n\t• Latte: 55 kr\n\n✨Ett mysigt och barnvänligt kafé att starta dagen på!✨\n\n#stockholm #barn #familj #fika #frukost"
+            },
+            {
+              "id": "tiktok:7558092215805938966:location_tag:dee27e2fbc1f",
+              "sourceUrl": "https://www.tiktok.com/@barn.vnligt.sthlm/video/7558092215805938966",
+              "kind": "location_tag",
+              "text": "Café Pascal, Norrtullsgatan 4, 113 29 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7622286293430521110",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Jakten på trevligaste caféet i Sthlm har precis börjat - vilket är ditt?",
+          "url": "https://www.tiktok.com/@patricpersson/video/7622286293430521110",
+          "author": "patricpersson",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/ooHaiFBRkDpfxmEuzgS3AxQhQfVXDqFEn2Q28D~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=9x3WLlB0C2htHFmAlDvy8AE9c1Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-03-28T12:43:50.000Z",
+          "fetchedAt": "2026-10-03T12:42:23.382Z",
+          "metrics": {
+            "views": 11200,
+            "likes": 181,
+            "comments": 20,
+            "shares": 7
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7622286293430521110:caption:18f76387d3a6",
+              "sourceUrl": "https://www.tiktok.com/@patricpersson/video/7622286293430521110",
+              "kind": "caption",
+              "text": "Jakten på trevligaste caféet i Sthlm har precis börjat - vilket är ditt?"
+            },
+            {
+              "id": "tiktok:7622286293430521110:location_tag:d668d81c3c71",
+              "sourceUrl": "https://www.tiktok.com/@patricpersson/video/7622286293430521110",
+              "kind": "location_tag",
+              "text": "Café & Bageri Pascal, Skånegatan 76, 116 37 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7387826699255156000",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Replying to @VickyClimbFit part two on the hunt for Stockholm’s best pastries, we’ve got cafe pascal #stockholmcafe #stockholmfood #stockholmthingstodo #visitstockholm",
+          "url": "https://www.tiktok.com/@emmakatehall/video/7387826699255156000",
+          "author": "emmakatehall",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/80ee944e0f1343119b999a7be7192d62_1720112456~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=0LIqfjeRPlVUiE4HWjgfegLqAI8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2024-07-04T17:00:52.000Z",
+          "fetchedAt": "2026-10-03T12:42:23.382Z",
+          "metrics": {
+            "views": 156900,
+            "likes": 3312,
+            "comments": 47,
+            "shares": 514
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7387826699255156000:caption:6a3e258ceebd",
+              "sourceUrl": "https://www.tiktok.com/@emmakatehall/video/7387826699255156000",
+              "kind": "caption",
+              "text": "Replying to @VickyClimbFit part two on the hunt for Stockholm’s best pastries, we’ve got cafe pascal #stockholmcafe #stockholmfood #stockholmthingstodo #visitstockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7517693529015995679",
+          "type": "video",
+          "source": "tiktok",
+          "title": "fika hour at cafe pascal ✨☕️🥐\n\n#stockholm #sweden #sweden🇸🇪 #fyp #travel #traveltiktok #traveltok #forthegirls #europe #cafe #coffee #swedishsummer #pastry #fika #tea",
+          "url": "https://www.tiktok.com/@meementos/video/7517693529015995679",
+          "author": "meementos",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oAAEGoAUYtoQfBzZi1DDiQr1VVNREVFAeNWE6u~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=gzhAsttJaCC%2BLwSLNwylvaZd45k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2025-06-19T16:10:43.000Z",
+          "fetchedAt": "2026-10-03T12:42:23.382Z",
+          "metrics": {
+            "views": 3035,
+            "likes": 210,
+            "comments": 20,
+            "shares": 2
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7517693529015995679:caption:a8103c7db7b8",
+              "sourceUrl": "https://www.tiktok.com/@meementos/video/7517693529015995679",
+              "kind": "caption",
+              "text": "fika hour at cafe pascal ✨☕️🥐\n\n#stockholm #sweden #sweden🇸🇪 #fyp #travel #traveltiktok #traveltok #forthegirls #europe #cafe #coffee #swedishsummer #pastry #fika #tea"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7527301939311267094",
+          "type": "video",
+          "source": "tiktok",
+          "title": "If you only have one morning in Stockholm to get a good coffee, where would you go? Having asked locals for recommendations, the one that kept popping up was Café Pascal.\n\n#coffeespots #coffee #cafepa",
+          "url": "https://www.tiktok.com/@rkz.uk/video/7527301939311267094",
+          "author": "rkz.uk",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/ooRClFFTAwCfD9dEooflAcksiAIEQAXQDlsIEg~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=VHHIQGege1J0tRObHQx4c3qj1pw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2025-07-15T13:36:02.000Z",
+          "fetchedAt": "2026-10-03T12:42:23.382Z",
+          "metrics": {
+            "views": 2185,
+            "likes": 72,
+            "comments": 2,
+            "shares": 2
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7527301939311267094:caption:a02b681379b2",
+              "sourceUrl": "https://www.tiktok.com/@rkz.uk/video/7527301939311267094",
+              "kind": "caption",
+              "text": "If you only have one morning in Stockholm to get a good coffee, where would you go? Having asked locals for recommendations, the one that kept popping up was Café Pascal.\n\n#coffeespots #coffee #cafepascal #stockholm #fyp"
+            },
+            {
+              "id": "tiktok:7527301939311267094:location_tag:dee27e2fbc1f",
+              "sourceUrl": "https://www.tiktok.com/@rkz.uk/video/7527301939311267094",
+              "kind": "location_tag",
+              "text": "Café Pascal, Norrtullsgatan 4, 113 29 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7547731775183703318",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Come to Pascal Cafe’ & Roastery with me ,  Galvegatan 22, Stockholm 📍 #stockholm #cafe #recommendations #fyp #visitstockholm",
+          "url": "https://www.tiktok.com/@tayla.a.toby/video/7547731775183703318",
+          "author": "tayla.a.toby",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/ocfpwAAMIICAhhAWd3iR9GCKfQ2DQ4AeAAeLFG~tplv-tiktokx-dmt-logom:tos-no1a-i-0068-no/okhR6edeeAPGGrAQAD0IAnKQ7WfLIulNiHw4AF.image?dr=9634&x-expires=1791201600&x-signature=NCawhEnk%2BZiSSS0U%2BALVXwt8nx8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2025-09-08T14:54:13.000Z",
+          "fetchedAt": "2026-10-03T12:42:23.382Z",
+          "metrics": {
+            "views": 607,
+            "likes": 18,
+            "comments": 2,
+            "shares": 0
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7547731775183703318:caption:5620c15fcace",
+              "sourceUrl": "https://www.tiktok.com/@tayla.a.toby/video/7547731775183703318",
+              "kind": "caption",
+              "text": "Come to Pascal Cafe’ & Roastery with me ,  Galvegatan 22, Stockholm 📍 #stockholm #cafe #recommendations #fyp #visitstockholm"
+            },
+            {
+              "id": "tiktok:7547731775183703318:location_tag:0dbe36d7b872",
+              "sourceUrl": "https://www.tiktok.com/@tayla.a.toby/video/7547731775183703318",
+              "kind": "location_tag",
+              "text": "Café Pascal - Torsplan, Gävlegatan 22, 113 30 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "web:785d68290579f16948d9202b",
+          "type": "article",
+          "source": "web",
+          "title": "Café Pascal Vasastan | Visit Stockholm",
+          "url": "https://www.visitstockholm.com/o/cafe-pascal/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:42:36.611Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:785d68290579f16948d9202b:article_text:6e48b55c2349",
+              "sourceUrl": "https://www.visitstockholm.com/o/cafe-pascal/",
+              "kind": "article_text",
+              "text": "Categories: Coffee Shop / Café Café Pascal Vasastan Stina Bengtsson A block from busy Odenplan, on a quiet corner, you'll find Café Pascal. In 2019 the coffee house won the prestigious Gulddraken award for best café in Stockholm. Great coffee and sandwiches with shrimp or porchetta to die for! Getting there Location icon Norrtullsgatan 4 113 29 Stockholm Open in google maps External link icon Phone icon +46(0)8-31 61 10 Mail icon info@cafepascal.se External link icon cafepascal.se Share icon Share Save Bookmark icon Save Explore related guides Categories: Tourist attractions, Stockholm in 24 hours – what you can see and do in a day Tourist attractions Stockholm in 24 hours – what you can see and do in a day Arrow icon Categories: Cafés, Design cafées in Stockholm Cafés Design cafées in Stockholm Arrow icon Categories: Cafés, Breakfast spots in Stockholm Cafés Breakfast spots in Stockholm Arrow icon Categories: Cafés, Where to find the best coffee in Vasastan Cafés Where to find the best coffee in Vasastan Arrow icon Categories: Cafés, An outdoor lunch or fika in Stockholm Cafés An outdoor lunch or fika in Stockholm Arrow icon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "place": {
+        "key": "stora-bageriet-ostermalm",
+        "name": "Stora Bageriet Östermalm",
+        "address": "Sibyllegatan 2, 114 51 Stockholm",
+        "city": "Stockholm",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stora%20Bageriet%20Sibyllegatan%202%20Stockholm"
+      },
+      "discovery": "live TikTok search and curated public article URL",
+      "socialCapturedAt": "2026-10-03T12:44:17.820Z",
+      "articleCapturedAt": "2026-10-03T12:44:12.140Z",
+      "candidates": [
+        {
+          "id": "tiktok:7381445686920793376",
+          "type": "video",
+          "source": "tiktok",
+          "title": "OM NI VILL HA GOFIKA, GÅ HIT!!! 🤩 Jättemysig uteservering att sitta på nu när det är fint väder! Menar såklart helt SÅLD på lillebrors bullar! #storabageriet #stockholmstips #swedishfika",
+          "url": "https://www.tiktok.com/@kkajsafors/video/7381445686920793376",
+          "author": "kkajsafors",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/owEnAUi4GLzveIFFIMIGx4eAQ7eygGTCGegPcj~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=hniRWGEemNWdQw0VdKvl40jIHMw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2024-06-17T12:19:19.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 3908,
+            "likes": 34,
+            "comments": 1,
+            "shares": 10
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7381445686920793376:caption:d312cb42fa3a",
+              "sourceUrl": "https://www.tiktok.com/@kkajsafors/video/7381445686920793376",
+              "kind": "caption",
+              "text": "OM NI VILL HA GOFIKA, GÅ HIT!!! 🤩 Jättemysig uteservering att sitta på nu när det är fint väder! Menar såklart helt SÅLD på lillebrors bullar! #storabageriet #stockholmstips #swedishfika"
+            },
+            {
+              "id": "tiktok:7381445686920793376:location_tag:c00015ce3f51",
+              "sourceUrl": "https://www.tiktok.com/@kkajsafors/video/7381445686920793376",
+              "kind": "location_tag",
+              "text": "Stora bageriet, Sibyllegatan 2, 114 51 Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7623836827555843346",
+          "type": "video",
+          "source": "tiktok",
+          "title": "@Stora Bageriet                                     Location 📍sibyllegatan 2                   1and 2nd of April              #stocholm #somalitiktok #april",
+          "url": "https://www.tiktok.com/@theezahra0/video/7623836827555843346",
+          "author": "theezahra0",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/o4bDFB0ZUEyrOm8aQEkoEfgmcnzepQAgWB8Rga~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=MipGi1GZkEXFJ%2F4ITKn%2FZUiyxXg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2026-04-01T17:00:43.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 2359,
+            "likes": 73,
+            "comments": 8,
+            "shares": 22
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7623836827555843346:caption:3d124c494698",
+              "sourceUrl": "https://www.tiktok.com/@theezahra0/video/7623836827555843346",
+              "kind": "caption",
+              "text": "@Stora Bageriet                                     Location 📍sibyllegatan 2                   1and 2nd of April              #stocholm #somalitiktok #april"
+            },
+            {
+              "id": "tiktok:7623836827555843346:location_tag:1a114984f05e",
+              "sourceUrl": "https://www.tiktok.com/@theezahra0/video/7623836827555843346",
+              "kind": "location_tag",
+              "text": "Södermalm, Stockholm, Sweden, Stockholm"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7390243835764313377",
+          "type": "video",
+          "source": "tiktok",
+          "title": "For locals, 📌 Stora Bageriet is one of the most beloved cafés in town. You can find some of the best breakfasts here, sweet buns, and other delicious food to nibble on. \n\nThey’re in two locations: \n📍 ",
+          "url": "https://www.tiktok.com/@its.thuha/video/7390243835764313377",
+          "author": "its.thuha",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oUnBYZuNiOWCI7iozvgAWa7fvX4IAXCRPEhqIh~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=V2Knw5do9bfss%2BiJxhyXFT4GzQ0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2024-07-11T05:20:59.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 38200,
+            "likes": 456,
+            "comments": 3,
+            "shares": 224
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7390243835764313377:caption:b78b56c85706",
+              "sourceUrl": "https://www.tiktok.com/@its.thuha/video/7390243835764313377",
+              "kind": "caption",
+              "text": "For locals, 📌 Stora Bageriet is one of the most beloved cafés in town. You can find some of the best breakfasts here, sweet buns, and other delicious food to nibble on. \n\nThey’re in two locations: \n📍 Sibyllegatan 2 (Östermalm) \n📍 Sankt Eriksgatan 88 (St Eriksplan) \n\nI kinda prefer the location in St Eriksplan as its smaller and usually less busy. But they both have their charm. And buns! The most important party tbh. \n\n#storabageriet #bakeriesofinstagram #stockholm #stockholmcity #stockholmfood #stockholmtips"
+            },
+            {
+              "id": "tiktok:7390243835764313377:location_tag:9559d49b890e",
+              "sourceUrl": "https://www.tiktok.com/@its.thuha/video/7390243835764313377",
+              "kind": "location_tag",
+              "text": "Stockholm, Stockholm, Sweden"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7659869751958703390",
+          "type": "video",
+          "source": "tiktok",
+          "title": "When in Stockholm, Swedish bakeries are a MUST ! You have to get a smörgåsbord and a kardemummabulle.\n\n📍Stora Bageriet\n\nIf you’re in Stockholm, make sure you check out one of the best local bakeries, ",
+          "url": "https://www.tiktok.com/@suavefoodreviews/video/7659869751958703390",
+          "author": "suavefoodreviews",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/osISpPIAqzALoIqpCfjQdmedAYGUIEAQeAgUsa~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=lkaCFQFclwKuwjk6NDt8HkP8RUE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2026-07-07T19:27:05.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 24400,
+            "likes": 838,
+            "comments": 14,
+            "shares": 119
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7659869751958703390:caption:131ac0dcb0b3",
+              "sourceUrl": "https://www.tiktok.com/@suavefoodreviews/video/7659869751958703390",
+              "kind": "caption",
+              "text": "When in Stockholm, Swedish bakeries are a MUST ! You have to get a smörgåsbord and a kardemummabulle.\n\n📍Stora Bageriet\n\nIf you’re in Stockholm, make sure you check out one of the best local bakeries, Stora Bageriet.\n\n#travel #Sweden #Stockholm #food #foodreview\n#foodie #foodblogger #food #foodporn #foodphotography #foodstagram #instafood #foodlover #foodblog #foodies #review #yummy #foodiesofinstagram #delicious #foodgram #foodpics #foodlovers #foodreviews #kulinerindonesia #instagood #foodreviewer #foodiegram #restaurant #restaurantreview #swedishfood"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7384358092042997024",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Our favourite cafes / bakeries in Stockholm 🤍☕️🍵 #stockholm #stockholmstyle #stockholmsummer #visitsweden #stockholmguide #stockholminspo #gorlstripinspo #scandinavia #stockholmtrip #stockholmcafe #ca",
+          "url": "https://www.tiktok.com/@ordatwins/video/7384358092042997024",
+          "author": "ordatwins",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/191d16a2ae39417db8e8c890981a6de9_1719304864~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=hahW7Z%2FIOkXfJTz7ryUapGaQk7w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2024-06-25T08:41:01.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 83900,
+            "likes": 1309,
+            "comments": 8,
+            "shares": 362
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7384358092042997024:caption:c84200dad66f",
+              "sourceUrl": "https://www.tiktok.com/@ordatwins/video/7384358092042997024",
+              "kind": "caption",
+              "text": "Our favourite cafes / bakeries in Stockholm 🤍☕️🍵 #stockholm #stockholmstyle #stockholmsummer #visitsweden #stockholmguide #stockholminspo #gorlstripinspo #scandinavia #stockholmtrip #stockholmcafe #cafesinstockholm #swedishbuns"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7593065151616552194",
+          "type": "video",
+          "source": "tiktok",
+          "title": "One of the best coffees ☕️ in town. Check out \n\nStora Bageriet\n📍 Sibyllegatan 2, Stockholm \n\nWhere do you have fika in Stockholm? Tell me in the comments 👀\n\n#stockholmtravel",
+          "url": "https://www.tiktok.com/@chamy_in_sweden/video/7593065151616552194",
+          "author": "chamy_in_sweden",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oMI7zUNigsAeIgVfYK8AuIkagMLQKffGfi43Jh~tplv-tiktokx-origin.image?dr=10395&x-expires=1791201600&x-signature=JuU7xcg8w%2BWAnqf43VMI7OUgGgU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+          "publishedAt": "2026-01-08T18:50:50.000Z",
+          "fetchedAt": "2026-10-03T12:44:17.818Z",
+          "metrics": {
+            "views": 2901,
+            "likes": 118,
+            "comments": 1,
+            "shares": 5
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7593065151616552194:caption:f45d66fabec8",
+              "sourceUrl": "https://www.tiktok.com/@chamy_in_sweden/video/7593065151616552194",
+              "kind": "caption",
+              "text": "One of the best coffees ☕️ in town. Check out \n\nStora Bageriet\n📍 Sibyllegatan 2, Stockholm \n\nWhere do you have fika in Stockholm? Tell me in the comments 👀\n\n#stockholmtravel"
+            }
+          ]
+        },
+        {
+          "id": "web:0fa6d91074164a17003de718",
+          "type": "article",
+          "source": "web",
+          "title": "Stora Bageriet | Visit Stockholm",
+          "url": "https://www.visitstockholm.com/o/stora-bageriet-ostermalm/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:44:12.135Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:0fa6d91074164a17003de718:article_text:de98cb04de43",
+              "sourceUrl": "https://www.visitstockholm.com/o/stora-bageriet-ostermalm/",
+              "kind": "article_text",
+              "text": "Categories: Coffee Shop / Café Stora Bageriet Östermalm SBR Stora Bageriet is located on Östermalm in the oldest industrial building in Stockholm; a bakery that used to supply the military with fresh bread. They're open for breakfast, fika and lunch, and their outdoor terrace is perfect for a refreshing drink in the shade. Getting there Location icon Sibyllegatan 2 114 51 Stockholm Open in google maps External link icon Phone icon +46(0)8-27 72 72 Mail icon kavalleriet@dregs.se External link icon storabageriet.com Share icon Share Save Bookmark icon Save Explore related guides Categories: Activities, 5 ways to explore Stockholm, between the Bad Bunny concerts Activities 5 ways to explore Stockholm, between the Bad Bunny concerts Arrow icon Categories: Cafés, Fat Tuesday – the day of the Semla 2026 Cafés Fat Tuesday – the day of the Semla 2026 Arrow icon Categories: Cafés, Design cafées in Stockholm Cafés Design cafées in Stockholm Arrow icon Categories: Cafés, Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Cafés Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Arrow icon Categories: Cafés, Breakfast spots in Stockholm Cafés Breakfast spots in Stockholm Arrow icon Categories: Cafés, Great cafés on Östermalm Cafés Great cafés on Östermalm Arrow icon Categories: Cafés, Roy Fares: My top 5 places to eat semla Cafés Roy Fares: My top 5 places to eat semla Arrow icon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

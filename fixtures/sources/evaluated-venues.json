@@ -1,0 +1,18 @@
+[
+  {
+    "key": "svedjan-bageri-sodermalm",
+    "name": "Svedjan Bageri",
+    "address": "Brännkyrkagatan 93, 117 26 Stockholm",
+    "city": "Stockholm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Svedjan%20Bageri%20Brannkyrkagatan%2093%20Stockholm",
+    "queries": [
+      "Svedjan Bageri Stockholm",
+      "Svedjan Bageri Sodermalm"
+    ],
+    "articleSeedUrl": "https://www.visitstockholm.com/o/svedjan-bageri/",
+    "identitySource": "https://www.visitstockholm.com/o/svedjan-bageri/",
+    "socialCoverage": "pending-live-check",
+    "selection": "not-selected",
+    "reason": "Two live queries returned mostly other bakeries; no two branch-specific social matches."
+  }
+]

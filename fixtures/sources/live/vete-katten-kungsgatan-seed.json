@@ -1,0 +1,41 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "curated-public-url",
+  "venueKey": "vete-katten-kungsgatan",
+  "queryOverride": null,
+  "capturedAt": "2026-10-03T12:42:35.204Z",
+  "elapsedMs": 620,
+  "observations": [],
+  "results": {
+    "article": {
+      "items": [
+        {
+          "id": "web:ff2f27ed48bf9709fcfbab12",
+          "type": "article",
+          "source": "web",
+          "title": "Vetekatten Kungsgatan | Visit Stockholm",
+          "url": "https://www.visitstockholm.com/o/vetekatten/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:42:35.200Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:ff2f27ed48bf9709fcfbab12:article_text:cbd7b84414fd",
+              "sourceUrl": "https://www.visitstockholm.com/o/vetekatten/",
+              "kind": "article_text",
+              "text": "Categories: Coffee Shop / Café Vetekatten Kungsgatan Susanna Blåvarg Vetekatten in central Stockholm is a coffee-and-pastry institution. A well-preserved, tradition-packed café where you can sample traditional Swedish pastries of superior quality. They have six branches throughout the city and their first has been open, almost every day, since opening its door at Kungsgatan 55 in 1928. Getting there Location icon Kungsgatan 55 111 22 Stockholm Open in google maps External link icon Phone icon +46(0)8-20 84 05 Mail icon info@vetekatten.se External link icon http://www.vetekatten.se/ Share icon Share Save Bookmark icon Save Explore related guides Categories: Restaurants, Five places to enjoy a working lunch in Stockholm Restaurants Five places to enjoy a working lunch in Stockholm Arrow icon Categories: Cafés, Dona Hariri – the walking link between Södermalm and the suburbs Cafés Dona Hariri – the walking link between Södermalm and the suburbs Arrow icon Categories: Cafés, A fika evergreen – the Princess cake Cafés A fika evergreen – the Princess cake Arrow icon Categories: Cafés, An audience with the queen of cakes: Monika Ahlberg Cafés An audience with the queen of cakes: Monika Ahlberg Arrow icon Categories: Cafés, Fat Tuesday – the day of the Semla 2026 Cafés Fat Tuesday – the day of the Semla 2026 Arrow icon Categories: Cafés, Where to go for Afternoon Tea in Stockholm Cafés Where to go for Afternoon Tea in Stockholm Arrow icon Categories: Cafés, Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Cafés Cinnamon Bun & Princess Cake: Swedish Fika in Stockholm Arrow icon Categories: Cafés, Cafés in Norrmalm Cafés Cafés in Norrmalm Arrow icon Categories: Cafés, A fika or lunch under the cherry blossoms Cafés A fika or lunch under the cherry blossoms Arrow icon"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

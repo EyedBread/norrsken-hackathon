@@ -1,0 +1,135 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "svedjan-bageri-sodermalm",
+  "queryOverride": null,
+  "capturedAt": "2026-10-03T12:43:12.716Z",
+  "elapsedMs": 11104,
+  "observations": [
+    {
+      "actor": "apify~google-search-scraper",
+      "runId": "1maoU79NtxxojB8Xr",
+      "status": "SUCCEEDED",
+      "elapsedMs": 10662,
+      "usageTotalUsd": 0.001
+    }
+  ],
+  "results": {
+    "search": {
+      "items": [
+        {
+          "id": "web:fabf7557fd46ec7ad16604ff",
+          "type": "article",
+          "source": "web",
+          "title": "Svedjan Bageri: best Kanelbullar from Alfred Hellström",
+          "url": "https://www.bumblebeemagazine.com/en/blog/cafes/stockholm/svedjan-bageri",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:12.276Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:fabf7557fd46ec7ad16604ff:search_snippet:4f236b7f36a4",
+              "sourceUrl": "https://www.bumblebeemagazine.com/en/blog/cafes/stockholm/svedjan-bageri",
+              "kind": "search_snippet",
+              "text": "Svedjan Bageri in Södermalm is the kind of place where we could easily spend an entire Swedish winter day. Because really - what could be better than sitting at ...Read more"
+            }
+          ]
+        },
+        {
+          "id": "web:d21c1368e452c6d9e0841759",
+          "type": "article",
+          "source": "web",
+          "title": "The Best Bakeries & Cafes in Stockholm Perfect for Fika",
+          "url": "https://roamandthrive.com/best-bakeries-cafes-in-stockholm/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:12.276Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:d21c1368e452c6d9e0841759:search_snippet:7bb6535f3770",
+              "sourceUrl": "https://roamandthrive.com/best-bakeries-cafes-in-stockholm/",
+              "kind": "search_snippet",
+              "text": "Svedjan Bageri Svedjan Bageri is one to seek out while exploring Södermalm. It has locations on Brännkyrkagatan and Katarina Bangata, a ..."
+            }
+          ]
+        },
+        {
+          "id": "web:d64b6fe00384ccc1dcdc069b",
+          "type": "article",
+          "source": "web",
+          "title": "Where to Eat in Stockholm - Discover the Best Restaurants ...",
+          "url": "https://andershusa.com/where-to-eat-in-stockholm-sweden-best-restaurants-guide-foodie-map/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:12.276Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:d64b6fe00384ccc1dcdc069b:search_snippet:d1143e5ad845",
+              "sourceUrl": "https://andershusa.com/where-to-eat-in-stockholm-sweden-best-restaurants-guide-foodie-map/",
+              "kind": "search_snippet",
+              "text": "Svedjan Bageri began their bakery journey in the countryside in Västerbotten before opening a location in Södermalm at the end of 2020."
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "article": {
+      "items": [
+        {
+          "id": "web:fabf7557fd46ec7ad16604ff",
+          "type": "article",
+          "source": "web",
+          "title": "Svedjan Bageri: best Kanelbullar from Alfred Hellström",
+          "url": "https://www.bumblebeemagazine.com/en/blog/cafes/stockholm/svedjan-bageri",
+          "author": null,
+          "thumbnailUrl": "http://static1.squarespace.com/static/64b7d286a94aab57b9d5641d/66685887040679077325be20/68d15fd1a6425535cbdc5a39/1779543959134/stockhol-cafe-svedjan-bageri-aussen-cafe.jpg?format=1500w",
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:12.713Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:fabf7557fd46ec7ad16604ff:search_snippet:4f236b7f36a4",
+              "sourceUrl": "https://www.bumblebeemagazine.com/en/blog/cafes/stockholm/svedjan-bageri",
+              "kind": "search_snippet",
+              "text": "Svedjan Bageri in Södermalm is the kind of place where we could easily spend an entire Swedish winter day. Because really - what could be better than sitting at ...Read more"
+            },
+            {
+              "id": "web:fabf7557fd46ec7ad16604ff:article_text:681787bbbd2f",
+              "sourceUrl": "https://www.bumblebeemagazine.com/en/blog/cafes/stockholm/svedjan-bageri",
+              "kind": "article_text",
+              "text": "Svedjan Bageri – a Sip of Helsingborg & a Hug from Lapland stockholm cafes 15. Jan. Verfasst von Gabriele und Christoph in short... a little bit of Lapland in Södermalm fresh milk from Alfred Hellström's parents' farm what we could do for hours - watch the open bakery Svedjan Bageri in Södermalm is the kind of place where we could easily spend an entire Swedish winter day. Because really - what could be better than sitting at a big wooden table with a steaming black coffee in front of us, gazing into the open bakery where fresh sourdough loaves are being pulled from the oven? We could definitely imagine celebrating Kanelbullens Dag here - Sweden’s Cinnamon Bun Day in October. At Svedjan Bageri, the buns are so good that a line outside the door is anything but rare. Not that this comes as a surprise - Alfred Hellström, who runs the café in Södermalm, puts enormous care into the quality of every single ingredient. The milk, cheese and yoghurt all come from his family’s farm in Swedish Lapland and the coffee is roasted by the excellent Koppi roastery in Helsingborg. The organic flour for the baked goods is supplied by Warbro Kvarn, a traditional stone mill surrounded by wildflower meadows south of Stockholm. Alfred’s mother, Johanna Hellström, grew up in the 1980s on a small farm in Västerbotten, in the far northeast of Sweden. In the 1990s, the family moved to Södra Svedjan, on the shores of Lake Storkågeträsket, where they were able to run a somewhat larger farm. But with only forty cows, the dairy simply couldn’t carry the farm on its own - so a new idea had to be born. Through patience, dedication and a deep love of high-quality food, Johanna and her husband Pär gradually turned their dairy into one of Sweden’s finest artisanal creameries. In a beautifully restored barn, the family then opened the first Svedjan Bageri, right in the middle of Sweden’s rural idyll - a dream destination for a summer road trip! At the end of 2020, Alfred and his wife decided to bring Svedjan Bageri to Stockholm. They lovingly renovated the ground floor of a turn-of-the-century corner building at Brännkyrkagatan 93 in Södermalm. The original brick walls were exposed, adding warmth and texture. A large counter was installed and clad in bottle-green tiles. And of course, a modern open bakery was built into the space. Wooden tables and old school chairs complete the bright, welcoming interior. And when the weather plays along, there are benches along the facade and a few sunshine-yellow café tables outside. Which means we now get to enjoy the very best of Swedish café coziness right in the capital - gently infused with a hint of Lapland. more of our favourite cafés in Stockholm svedjan bageri website Gabriele und Christoph Who we are and why we know a thing or two about lifestyle tips? For over fifteen years, we ran Schneewittchen, our self-founded caf&eacute; and concept store in the heart of Munich’s Glockenbach district. A decade and a half of hands-on experience in hospitality, design, curation and community is the foundation we build on today, and the reason we’re excited to share what we’ve learned. Schneewittchen was never just a caf&eacute; or lifestyle shop. It was a second living room - a place where friends and family came together. Some regulars became close friends. Others found the warm, familiar atmosphere so comforting that Schneewittchen became a part of their daily rhythm. For some, it was a creative workplace - a spot to feel inspired, free, and always well-fed. People were curious about our shop products, our caf&eacute; menu, our playlists - and often, about us. They asked about our travels, our favourite places to eat or shop, the clothes we wore. Questions poured in about design, interiors, kitchen tools, self-employment and more. Bumblebee Magazine was born out of those conversations. It’s a lifestyle platform for like-minded people to discover answers, find inspiration and stumble across the next thing they might like as much as we do. https://www.bumblebeemagazine.com/en/about-bumblebee-magazine"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "health": {
+    "ok": true,
+    "model": "gemini-3.8-flash",
+    "sources": "live"
+  },
+  "job": {
+    "jobId": "28beba36-2fcf-41b9-9bf1-3846becff40d",
+    "placeKey": "cafe-pascal-vasastan",
+    "status": "partial",
+    "stage": "done",
+    "mode": "live",
+    "generatedAt": "2026-10-03T12:55:35.868Z",
+    "events": [
+      {
+        "at": "2026-10-03T12:55:05.973Z",
+        "message": "Queued"
+      },
+      {
+        "at": "2026-10-03T12:55:07.653Z",
+        "message": "Gemini planning failed, running default searches"
+      },
+      {
+        "at": "2026-10-03T12:55:07.654Z",
+        "message": "Searching TikTok for \"Café Pascal Vasastan Stockholm\""
+      },
+      {
+        "at": "2026-10-03T12:55:07.656Z",
+        "message": "Searching the web for \"Café Pascal Vasastan Stockholm\""
+      },
+      {
+        "at": "2026-10-03T12:55:14.861Z",
+        "message": "Found 10 TikTok videos (10 new)"
+      },
+      {
+        "at": "2026-10-03T12:55:29.257Z",
+        "message": "Found 6 articles (6 new)"
+      },
+      {
+        "at": "2026-10-03T12:55:29.257Z",
+        "message": "Checking 16 candidates against this venue"
+      },
+      {
+        "at": "2026-10-03T12:55:35.868Z",
+        "message": "Verification did not complete"
+      },
+      {
+        "at": "2026-10-03T12:55:35.868Z",
+        "message": "Kept 0, rejected 0, uncertain 16"
+      },
+      {
+        "at": "2026-10-03T12:55:35.868Z",
+        "message": "Done"
+      }
+    ],
+    "summary": {
+      "checked": 16,
+      "kept": 0,
+      "rejected": 0,
+      "uncertain": 16
+    },
+    "cards": [],
+    "decisions": [
+      {
+        "candidateId": "tiktok:7387826699255156000",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7661318196200344854",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7663911073749208342",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7622286293430521110",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7417861872545828114",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7618232728244309278",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7625720057796054279",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7646423531638541571",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7558092215805938966",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "tiktok:7215247394353466629",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "web:46f1ce51719ba445bf9345d8",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "web:785d68290579f16948d9202b",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "web:25e76bd92e19cdb5964dfabb",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "web:0877de590d2ae48e99612fe9",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "web:96cb533715cbb0d230df274f",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      },
+      {
+        "candidateId": "web:e11080b59bfb1a2e529d27af",
+        "verdict": "uncertain",
+        "reason": "Not checked because verification did not complete.",
+        "evidenceIds": []
+      }
+    ],
+    "sourceErrors": [
+      {
+        "source": "gemini",
+        "code": "planning_failed",
+        "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+      },
+      {
+        "source": "gemini",
+        "code": "decision_failed",
+        "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "vete-katten-kungsgatan",
+  "queryOverride": null,
+  "capturedAt": "2026-10-03T12:43:19.295Z",
+  "elapsedMs": 17877,
+  "observations": [
+    {
+      "actor": "apify~google-search-scraper",
+      "runId": "kdiKgigvSxJ8NGULS",
+      "status": "SUCCEEDED",
+      "elapsedMs": 16745,
+      "usageTotalUsd": 0.001
+    }
+  ],
+  "results": {
+    "search": {
+      "items": [
+        {
+          "id": "web:f36bca0485acb23e40200a02",
+          "type": "article",
+          "source": "web",
+          "title": "Vete-Katten, Stockholm - YummyDelight - WordPress.com",
+          "url": "https://yummydelight.wordpress.com/2019/02/02/vete-katten-stockholm/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:18.164Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:f36bca0485acb23e40200a02:search_snippet:5dcd071e6209",
+              "sourceUrl": "https://yummydelight.wordpress.com/2019/02/02/vete-katten-stockholm/",
+              "kind": "search_snippet",
+              "text": "Vete-Katten, an iconic tradition-packed coffee shop, for Fika – to enjoy a cuppa along with traditional Swedish pastries."
+            }
+          ]
+        },
+        {
+          "id": "web:1ec28ada7c5734a5222ba332",
+          "type": "article",
+          "source": "web",
+          "title": "Stockholm — Blog",
+          "url": "http://www.ganda-ganda.com/blog/tag/Stockholm",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:18.164Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:1ec28ada7c5734a5222ba332:search_snippet:e75aae97bcab",
+              "sourceUrl": "http://www.ganda-ganda.com/blog/tag/Stockholm",
+              "kind": "search_snippet",
+              "text": "Vete-Katten would almost always be included. chicken salad sandwiches, a cardamom bun and coffee. prepared with seasonal ingredients and traditional medicinal ..."
+            }
+          ]
+        },
+        {
+          "id": "web:735d74622e1189dcc934d95f",
+          "type": "article",
+          "source": "web",
+          "title": "Stockholm Café Guide: The Best 8 Spots for Fika",
+          "url": "https://www.sandinmyshoe.com/sweden/stockholm-cafe-fika-guide/",
+          "author": null,
+          "thumbnailUrl": null,
+          "publishedAt": null,
+          "fetchedAt": "2026-10-03T12:43:18.164Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:735d74622e1189dcc934d95f:search_snippet:375881f59d44",
+              "sourceUrl": "https://www.sandinmyshoe.com/sweden/stockholm-cafe-fika-guide/",
+              "kind": "search_snippet",
+              "text": "Vete‑Katten is one of Stockholm's most traditional cafés. It's known for classic Swedish pastries such as semlor, princess cake, chocolate balls, and huge ...Read more"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    "article": {
+      "items": [
+        {
+          "id": "web:f36bca0485acb23e40200a02",
+          "type": "article",
+          "source": "web",
+          "title": "Vete-Katten, Stockholm",
+          "url": "https://yummydelight.wordpress.com/2019/02/02/vete-katten-stockholm/",
+          "author": null,
+          "thumbnailUrl": "https://yummydelight.wordpress.com/wp-content/uploads/2019/06/vete-katten_01.jpg",
+          "publishedAt": "2019-02-02T02:53:02.000Z",
+          "fetchedAt": "2026-10-03T12:43:19.292Z",
+          "metrics": {
+            "views": null,
+            "likes": null,
+            "comments": null,
+            "shares": null
+          },
+          "evidence": [
+            {
+              "id": "web:f36bca0485acb23e40200a02:search_snippet:5dcd071e6209",
+              "sourceUrl": "https://yummydelight.wordpress.com/2019/02/02/vete-katten-stockholm/",
+              "kind": "search_snippet",
+              "text": "Vete-Katten, an iconic tradition-packed coffee shop, for Fika – to enjoy a cuppa along with traditional Swedish pastries."
+            },
+            {
+              "id": "web:f36bca0485acb23e40200a02:article_text:8e44b7b63035",
+              "sourceUrl": "https://yummydelight.wordpress.com/2019/02/02/vete-katten-stockholm/",
+              "kind": "article_text",
+              "text": "Touched down at Stockholm Arlanda airport around 8am in the morning and by the time we arrived at our hotel in town it was still too early for check-in. We took the time to roam around the area and our first stop was to Vete-Katten , an iconic tradition-packed coffee shop, for Fika – to enjoy a cuppa along with traditional Swedish pastries. A quick glance on what the guests were ordering at the cafe and it is apparent that one of the most popular bun is the Semla a small, wheat flour bun, flavoured with cardamom and filled with almond paste and whipped cream . But the main highlight of our visit was to try another Swedish classic – Princess Cake . The layer cake consist of alternating layers of airy sponge cake, freshly-prepared custard and a layer of raspberry jam at the bottom, enveloped by a thick quilt of whipped cream and encased with lime-coloured marzipan, giving the cake a smooth rounded top. We were also chose the Chocolate Budapest ( Budapestrulle ) – a roll cake made with chocolate hazelnut meringue, raspberries and cream. In comparison, the Classic Budapest is wrapped with mandarin oranges instead. Both pastry were smooth, rich and velvety. The wonderful pastries certainly made up for my lackluster waffles onboard the flight earlier. Photos taken earlier: Flight from SIN with a short transit stopover at Moscow (DME) before arriving at ARN. For appetizer, we had the Marinated Scallops with Yuzu Compote Pea sprout, cherry tomatoes and lemon basil vinaigrette . For main, I had the Peranakan Hokkien Mee Soup A rich pork-prawn broth with pork, prawns and vegetables on top of egg noodles and rice vermicelli – a Peranakan version of a popular Singaporean hawker dish. This was one of the dishes recommended by one of the air stewardess when I last flew with SQ. While the broth was pretty tasty, I didn’t like the texture of the prawns which was slightly rubbery. About two hours before touch down at Moscow , we were served breakfast. One had the Selection of Dim Sum lotus leaf rice with chicken, steamed pork pot sticker, scallop dumpling and vegetarian beancurd roll while another had the Warm Belgian Waffles with strawberry coulis, fresh berries and mascarpone cheese . While the dim sum was pretty decent, the waffles were slightly hard and dry… Transit at Moscow Domodedovo Airport at 6am, the lounge was really empty. More food on the next leg between DME-ARN. Light refreshment served for this short 2 hour leg – Spinach and Caramelised Onion Frittata Pan-fried pork sausages, onion tomato jam, mushrooms and potatoes was definitely better than the waffles I had earlier. After journeying for more than 14 hours, we finally arrived in Stockholm , Sweden ! Love to share? Email a link to a friend (Opens in new window) Email Share on Facebook (Opens in new window) Facebook Like Loading..."
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}

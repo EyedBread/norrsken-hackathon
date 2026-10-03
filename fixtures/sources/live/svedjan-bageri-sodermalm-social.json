@@ -1,0 +1,192 @@
+{
+  "mode": "live-source-capture",
+  "discovery": "live-search",
+  "venueKey": "svedjan-bageri-sodermalm",
+  "queryOverride": "Svedjan Bageri",
+  "capturedAt": "2026-10-03T12:42:18.589Z",
+  "elapsedMs": 6308,
+  "observations": [
+    {
+      "actor": "clockworks~tiktok-scraper",
+      "runId": "v4aQox8bBiOQ8uZgy",
+      "status": "SUCCEEDED",
+      "elapsedMs": 6304,
+      "usageTotalUsd": 0
+    }
+  ],
+  "results": {
+    "social": {
+      "items": [
+        {
+          "id": "tiktok:7637873036858821910",
+          "type": "video",
+          "source": "tiktok",
+          "title": "We tried everything at one of Sweden’s best bakeries 🥐 Deg Bageri in Malmö 🇸🇪 #malmofood #swedenfood #bakerytok #pastrylover #fika @malmotown",
+          "url": "https://www.tiktok.com/@thehungries/video/7637873036858821910",
+          "author": "thehungries",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oEALARZfUGTQfFKA7HDykIVhIfLjE0FAASOIm9~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=l5VWV39Yw8AV8MW40Dz3PYFXfdQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-05-09T12:48:22.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.586Z",
+          "metrics": {
+            "views": 9902,
+            "likes": 187,
+            "comments": 7,
+            "shares": 58
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7637873036858821910:caption:09672a1a064e",
+              "sourceUrl": "https://www.tiktok.com/@thehungries/video/7637873036858821910",
+              "kind": "caption",
+              "text": "We tried everything at one of Sweden’s best bakeries 🥐 Deg Bageri in Malmö 🇸🇪 #malmofood #swedenfood #bakerytok #pastrylover #fika @malmotown"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7664595880430931231",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Best Bakery in Stockholm? \nThe cinnamon role and Cardamom buns are insane here… \n#sweden🇸🇪 #stockholm🇸🇪 #stockholmsweden #stockholm #stockholmfood",
+          "url": "https://www.tiktok.com/@lukesemones/video/7664595880430931231",
+          "author": "lukesemones",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oYfseVtAEKBExzAq8mDmVqQYXQU18HRghFKEas~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=MPyT3p5Txer8fSPi%2FzL1ow0VAls%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-07-20T13:07:15.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.586Z",
+          "metrics": {
+            "views": 22500,
+            "likes": 662,
+            "comments": 17,
+            "shares": 57
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7664595880430931231:caption:ea31a0fa0dbc",
+              "sourceUrl": "https://www.tiktok.com/@lukesemones/video/7664595880430931231",
+              "kind": "caption",
+              "text": "Best Bakery in Stockholm? \nThe cinnamon role and Cardamom buns are insane here… \n#sweden🇸🇪 #stockholm🇸🇪 #stockholmsweden #stockholm #stockholmfood"
+            },
+            {
+              "id": "tiktok:7664595880430931231:location_tag:e985cd9aebfb",
+              "sourceUrl": "https://www.tiktok.com/@lukesemones/video/7664595880430931231",
+              "kind": "location_tag",
+              "text": "Stockholm Sweden Temple, Tempelvägen 5, 137 42 Västerhaninge, Sweden, Haninge"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7592967704877862166",
+          "type": "video",
+          "source": "tiktok",
+          "title": "My top 4 bakeries in Stockholm 🇸🇪 🥐 \n\n📍Stora Bageriet (östermalm): delicious cinnamon and saffron buns \n📍Lillebrors Bageri (vasastaden): take away only but best cardamom and saffron buns of my life, c",
+          "url": "https://www.tiktok.com/@londonultimateguide/video/7592967704877862166",
+          "author": "londonultimateguide",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/o4beoLehAf5NFGVFg4RsLKMtVbIifKcgATMfgE~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=N4XXYO8KkgkM%2BQ7bPvNJS11p9fk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-01-08T12:32:47.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.586Z",
+          "metrics": {
+            "views": 103200,
+            "likes": 2885,
+            "comments": 7,
+            "shares": 1207
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7592967704877862166:caption:b07e19de634a",
+              "sourceUrl": "https://www.tiktok.com/@londonultimateguide/video/7592967704877862166",
+              "kind": "caption",
+              "text": "My top 4 bakeries in Stockholm 🇸🇪 🥐 \n\n📍Stora Bageriet (östermalm): delicious cinnamon and saffron buns \n📍Lillebrors Bageri (vasastaden): take away only but best cardamom and saffron buns of my life, come early to skip the queue \n📍Cafe Pascal (Norrtullsgatan): for a nice sit down cup of coffee and pastries \n📍Brot (Odengatan): come here for semla and princess cake\n\n#foodie #foodietravel #stockholm #bakeries #stockholmbakery"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7589305557236911391",
+          "type": "video",
+          "source": "tiktok",
+          "title": "you saw my life change with one bite\n\nthis the best pastry ive ever had in all of sweden pls GO\n\nthis deserves an award @Stora Bageriet \n\n#stockholmfood #stockholmfoodguide #swedishpastry #stockholmba",
+          "url": "https://www.tiktok.com/@hannahbatistaa/video/7589305557236911391",
+          "author": "hannahbatistaa",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oshEfVBMiECmUoSHvRDSABGELz8IIVDfAppsVi~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/o8BTRoABAEiaEtzAKEUlzFiuIzSvVaBIA6BAh.image?dr=9634&x-expires=1791201600&x-signature=CicnQlZY9Yls62ANF9OL4uZDM3Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2025-12-29T15:42:09.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.586Z",
+          "metrics": {
+            "views": 5349,
+            "likes": 145,
+            "comments": 10,
+            "shares": 10
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7589305557236911391:caption:96db1b4862a1",
+              "sourceUrl": "https://www.tiktok.com/@hannahbatistaa/video/7589305557236911391",
+              "kind": "caption",
+              "text": "you saw my life change with one bite\n\nthis the best pastry ive ever had in all of sweden pls GO\n\nthis deserves an award @Stora Bageriet \n\n#stockholmfood #stockholmfoodguide #swedishpastry #stockholmbakery #storabageriet"
+            },
+            {
+              "id": "tiktok:7589305557236911391:location_tag:9559d49b890e",
+              "sourceUrl": "https://www.tiktok.com/@hannahbatistaa/video/7589305557236911391",
+              "kind": "location_tag",
+              "text": "Stockholm, Stockholm, Sweden"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7659869751958703390",
+          "type": "video",
+          "source": "tiktok",
+          "title": "When in Stockholm, Swedish bakeries are a MUST ! You have to get a smörgåsbord and a kardemummabulle.\n\n📍Stora Bageriet\n\nIf you’re in Stockholm, make sure you check out one of the best local bakeries, ",
+          "url": "https://www.tiktok.com/@suavefoodreviews/video/7659869751958703390",
+          "author": "suavefoodreviews",
+          "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/osISpPIAqzALoIqpCfjQdmedAYGUIEAQeAgUsa~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=Nj1dCiads7TIub4xN3m8HdbnauU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2026-07-07T19:27:05.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.586Z",
+          "metrics": {
+            "views": 24400,
+            "likes": 838,
+            "comments": 14,
+            "shares": 119
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7659869751958703390:caption:131ac0dcb0b3",
+              "sourceUrl": "https://www.tiktok.com/@suavefoodreviews/video/7659869751958703390",
+              "kind": "caption",
+              "text": "When in Stockholm, Swedish bakeries are a MUST ! You have to get a smörgåsbord and a kardemummabulle.\n\n📍Stora Bageriet\n\nIf you’re in Stockholm, make sure you check out one of the best local bakeries, Stora Bageriet.\n\n#travel #Sweden #Stockholm #food #foodreview\n#foodie #foodblogger #food #foodporn #foodphotography #foodstagram #instafood #foodlover #foodblog #foodies #review #yummy #foodiesofinstagram #delicious #foodgram #foodpics #foodlovers #foodreviews #kulinerindonesia #instagood #foodreviewer #foodiegram #restaurant #restaurantreview #swedishfood"
+            }
+          ]
+        },
+        {
+          "id": "tiktok:7415966361731468552",
+          "type": "video",
+          "source": "tiktok",
+          "title": "Enjoying my slow morning 💗#stockholmfood  \n#malaysianinsweden #livinginsweden #stockholm #sweden #breakfastspot #svedjanbageri #swedenfood",
+          "url": "https://www.tiktok.com/@wawawandering__/video/7415966361731468552",
+          "author": "wawawandering__",
+          "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/osAfDIiNoI5GPjWQwwqeCLz1TGOC6ZICFzqpfA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791201600&x-signature=XOfM2u3PiM2Lw%2FOCufoRsqa18F4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "publishedAt": "2024-09-18T12:57:04.000Z",
+          "fetchedAt": "2026-10-03T12:42:18.586Z",
+          "metrics": {
+            "views": 28200,
+            "likes": 273,
+            "comments": 17,
+            "shares": 77
+          },
+          "evidence": [
+            {
+              "id": "tiktok:7415966361731468552:caption:cd7cfcc0090f",
+              "sourceUrl": "https://www.tiktok.com/@wawawandering__/video/7415966361731468552",
+              "kind": "caption",
+              "text": "Enjoying my slow morning 💗#stockholmfood  \n#malaysianinsweden #livinginsweden #stockholm #sweden #breakfastspot #svedjanbageri #swedenfood"
+            },
+            {
+              "id": "tiktok:7415966361731468552:location_tag:e85fef2e20b4",
+              "sourceUrl": "https://www.tiktok.com/@wawawandering__/video/7415966361731468552",
+              "kind": "location_tag",
+              "text": "Stockholm, Sweden"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  }
+}
