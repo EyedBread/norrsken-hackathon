@@ -1,0 +1,272 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: #f7f6ed;
+  color: #173f36;
+  font-family: "Avenir Next", Avenir, "Trebuchet MS", sans-serif;
+}
+button,
+select {
+  font: inherit;
+}
+button {
+  cursor: pointer;
+}
+button:focus-visible,
+select:focus-visible {
+  outline: 2px solid #b5472a;
+  outline-offset: 5px;
+}
+#preview {
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.studio-brand {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 30px 48px;
+  letter-spacing: -0.5px;
+}
+.studio-brand strong {
+  font-size: 18px;
+  font-weight: 600;
+}
+.studio-logo {
+  font-family: Georgia, serif;
+  font-size: 32px;
+  line-height: 38px;
+  letter-spacing: -6px;
+  border: 1px solid #173f36;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  padding-left: 8px;
+}
+.studio-logo span {
+  font-size: 15px;
+  vertical-align: top;
+  letter-spacing: 0;
+}
+.studio-tag {
+  font-size: 8px;
+  letter-spacing: 1.8px;
+  border-left: 1px solid #c9d0bf;
+  padding-left: 17px;
+  margin-left: 7px;
+  color: #6e7d6c;
+}
+.map-art {
+  position: absolute;
+  inset: 0 0 0 30%;
+  opacity: 0.7;
+  mask-image: linear-gradient(90deg, transparent, #000 45%);
+}
+.map-art > svg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+.map-pin {
+  position: absolute;
+  border: 6px solid #f7f6ed;
+  background: #406d58;
+  color: #fff;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: grid;
+  place-items: center;
+  font-size: 12px;
+  box-shadow: 0 0 0 1px #b9c9ad;
+}
+.p1 {
+  top: 61%;
+  left: 17%;
+}
+.p2 {
+  top: 29%;
+  left: 25%;
+  background: #b55337;
+}
+.p3 {
+  top: 46%;
+  left: 58%;
+}
+.studio-intro {
+  position: relative;
+  width: 400px;
+  margin: 53px 0 0 65px;
+}
+.kicker {
+  font-size: 9px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  color: #6e7d6c;
+}
+.studio-intro h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  font-size: 88px;
+  line-height: 0.98;
+  letter-spacing: -5px;
+  margin: 26px 0 24px;
+}
+.studio-intro em {
+  font-weight: 400;
+  color: #547152;
+}
+.studio-intro > p {
+  font-size: 14px;
+  line-height: 1.9;
+  color: #687967;
+}
+.studio-rule {
+  height: 1px;
+  width: 42px;
+  background: #97a888;
+  margin: 29px 0 23px;
+}
+.small-label {
+  font-size: 8px;
+  letter-spacing: 1.7px;
+  color: #6e7d6c;
+}
+.venues {
+  display: grid;
+  width: 305px;
+  gap: 4px;
+  margin-top: 12px;
+}
+.venues button {
+  border: 1px solid transparent;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  gap: 15px;
+  color: #173f36;
+  border-radius: 9px;
+  padding: 10px 13px;
+}
+.venues button[aria-pressed="true"] {
+  border-color: #ccd5be;
+  background: #eef1e4dd;
+}
+.venues button:hover {
+  background: #eef1e4;
+}
+.venues button > span:first-child {
+  font-family: Georgia, serif;
+  font-size: 18px;
+  color: #849676;
+}
+.venues button > span:last-child {
+  margin-left: auto;
+  font-size: 19px;
+}
+.venues strong {
+  font-size: 12px;
+  font-weight: 600;
+}
+.venues small {
+  display: block;
+  font-size: 10px;
+  color: #788574;
+  margin-top: 3px;
+}
+.studio-controls {
+  position: relative;
+  margin: 38px 0 30px 65px;
+  font-size: 10px;
+  max-width: 380px;
+  color: #6e7d6c;
+}
+.studio-controls label {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.studio-controls select {
+  background: #fafbf6;
+  border: 1px solid #cdd6c3;
+  border-radius: 5px;
+  color: #284d40;
+  padding: 6px 9px;
+  font-size: 10px;
+}
+.studio-controls p {
+  font-size: 9px;
+  line-height: 1.7;
+  margin-top: 13px;
+}
+@media (min-width: 1550px) {
+  .studio-intro {
+    margin-left: 10vw;
+  }
+  .studio-controls {
+    margin-left: 10vw;
+  }
+  .studio-intro h1 {
+    font-size: 112px;
+  }
+  .studio-intro {
+    margin-top: 9vh;
+  }
+  .drawer {
+    right: 5vw;
+  }
+}
+@media (max-width: 1050px) {
+  .studio-intro {
+    margin-left: 35px;
+    width: 290px;
+  }
+  .studio-intro h1 {
+    font-size: 70px;
+  }
+  .studio-controls {
+    margin-left: 35px;
+    width: 280px;
+  }
+  .studio-brand {
+    padding-left: 35px;
+  }
+  .studio-tag {
+    display: none;
+  }
+  .studio-intro > p {
+    font-size: 13px;
+  }
+  .venues {
+    width: 275px;
+  }
+}
+@media (max-width: 760px) {
+  .studio-intro {
+    margin: 22px 25px;
+  }
+  .studio-intro h1 {
+    font-size: 65px;
+  }
+  .studio-controls {
+    margin-left: 25px;
+  }
+  .studio-brand {
+    padding: 22px 25px;
+  }
+  .map-art {
+    inset: 0;
+  }
+  .studio-intro,
+  .studio-brand,
+  .studio-controls {
+    z-index: 1;
+  }
+}
