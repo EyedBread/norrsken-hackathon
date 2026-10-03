@@ -29,6 +29,8 @@ export type Config = {
   port: number;
   geminiApiKey: string | null;
   geminiModel: string;
+  /** Tried in order when the main model stays busy. */
+  geminiFallbackModels: string[];
   sources: 'mock' | 'live';
   budgets: Budgets;
   cacheDir: string;
@@ -42,6 +44,7 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): Config {
     port: positiveInt(env.PORT) ?? 8787,
     geminiApiKey: env.GEMINI_API_KEY?.trim() || null,
     geminiModel: env.GEMINI_MODEL?.trim() || 'gemini-3.8-flash',
+    geminiFallbackModels: (env.GEMINI_FALLBACK_MODELS ?? '').split(',').map((m) => m.trim()).filter(Boolean),
     sources,
     budgets: {
       ...DEFAULT_BUDGETS,

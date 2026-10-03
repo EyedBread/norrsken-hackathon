@@ -64,6 +64,14 @@ What the server enforces regardless of what Gemini says
 - URLs, metrics, dates and thumbnails come from source data. Only `why` is model text.
 - If Gemini planning fails, one default search per source still runs. If verification fails, everything is `uncertain` and the job is `partial`.
 
+## Gemini busy errors
+
+When Gemini answers "high demand" (503), rate limited (429) or another temporary error, each call is retried
+up to 3 times with backoff (about 1 s, then 2 s). Then the next model in `GEMINI_FALLBACK_MODELS` is tried.
+Bad keys and bad requests fail at once. Retries stop when the step's time budget runs out, and each retry
+shows in the job's `events`, for example `Gemini high demand, retrying with gemini-3.8-flash (attempt 2)`.
+`npm run smoke:gemini` checks the main model and every fallback model, without retries.
+
 ## Cache
 
 Live `complete`/`partial` results are saved to `fixtures/research/live/<placeKey>.json` and loaded on start.

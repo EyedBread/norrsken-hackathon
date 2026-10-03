@@ -148,3 +148,21 @@ test('planning failure falls back to default searches', async () => {
   assert.equal(out.sourceErrors[0]?.code, 'planning_failed');
   assert.ok(h.events.includes('Gemini planning failed, running default searches'));
 });
+
+test('Gemini retries appear as job events', async () => {
+  const base = scriptedModel([[{ id: '1', name: 'searchSocial', args: { query: 'Test Café' } }]]);
+  let first = true;
+  const model = {
+    name: 'flaky',
+    async generate(req: Parameters<typeof base.generate>[0]) {
+      if (first) {
+        first = false;
+        req.onRetry?.({ attempt: 2, model: 'backup', reason: 'high demand' });
+      }
+      return base.generate(req);
+    },
+  };
+  const h = hooks();
+  await runResearch(PLACE, { model, sources: createMockSources({ delayMs: 1 }), budgets: budgets() }, h);
+  assert.ok(h.events.includes('Gemini high demand, retrying with backup (attempt 2)'));
+});
