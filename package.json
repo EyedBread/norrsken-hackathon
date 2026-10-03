@@ -1,0 +1,21 @@
+{
+  "name": "around-the-web",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/extension",
+    "apps/api",
+    "packages/contracts"
+  ],
+  "scripts": {
+    "build": "npm run build -w @atw/extension",
+    "dev": "npm run dev -w @atw/extension",
+    "dev:api": "npm run dev -w @atw/api",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present && npm run test --prefix apps/api/sources",
+    "test:extension": "npm run test -w @atw/extension"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}

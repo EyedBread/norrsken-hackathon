@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Around the Web · Maps",
+  "version": "0.1.0",
+  "description": "Videos, articles, and the evidence that connects them to the place you're exploring.",
+  "host_permissions": ["http://localhost:8787/*"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "Open Around the Web" },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.google.com/maps/*",
+        "https://www.google.se/maps/*",
+        "https://maps.google.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'none'"
+  }
+}
