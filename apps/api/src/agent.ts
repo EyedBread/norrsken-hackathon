@@ -1,7 +1,7 @@
 import type { Content, FunctionCall, FunctionDeclaration } from '@google/genai';
 import type { Candidate, JobStage, Place, SourceError, SourceResult, SourceTools } from '@atw/contracts';
 import type { Budgets } from './config.ts';
-import type { ResearchModel } from './model.ts';
+import type { ModelRequest, ResearchModel } from './model.ts';
 import { finalizeDecisions, isCandidate, isRecord, type Finalized } from './validate.ts';
 
 export type AgentHooks = {
@@ -154,6 +154,27 @@ export async function runResearch(place: Place, deps: AgentDeps, hooks: AgentHoo
     }
   }
 
+  /** One Gemini call with its own abort signal, stopped when `until` passes. Retries show as events. */
+  async function ask(req: Omit<ModelRequest, 'signal' | 'onRetry'>, until: number) {
+    const call = new AbortController();
+    const relay = () => call.abort();
+    job.signal.addEventListener('abort', relay, { once: true });
+    try {
+      return await withDeadline(
+        model.generate({
+          ...req,
+          signal: call.signal,
+          onRetry: ({ attempt, model: name, reason }) =>
+            hooks.event(`Gemini ${reason}, retrying with ${name} (attempt ${attempt})`),
+        }),
+        until,
+      );
+    } finally {
+      call.abort();
+      job.signal.removeEventListener('abort', relay);
+    }
+  }
+
   async function search(tool: 'searchSocial' | 'searchArticles', rawQuery: unknown): Promise<Record<string, unknown>> {
     const query = typeof rawQuery === 'string' ? rawQuery.trim().replace(/\s+/g, ' ').slice(0, 200) : '';
     if (!query) return { ok: false, error: 'query must be a non-empty string' };
@@ -251,7 +272,7 @@ export async function runResearch(place: Place, deps: AgentDeps, hooks: AgentHoo
       }
       let reply;
       try {
-        reply = await withDeadline(model.generate({ system: SYSTEM, contents, tools: TOOLS, signal: job.signal }), searchEndsAt);
+        reply = await ask({ system: SYSTEM, contents, tools: TOOLS }, searchEndsAt);
       } catch (err) {
         if (err instanceof DeadlineError || job.signal.aborted) {
           cutShort = true;
@@ -293,13 +314,12 @@ export async function runResearch(place: Place, deps: AgentDeps, hooks: AgentHoo
     let raw: unknown = null;
     let skippedReason = 'Not assessed by the model.';
     try {
-      const reply = await withDeadline(
-        model.generate({
+      const reply = await ask(
+        {
           system: SYSTEM,
           contents: [{ role: 'user', parts: [{ text: decisionPrompt(place, [...candidates.values()]) }] }],
           jsonSchema: DECISION_SCHEMA,
-          signal: job.signal,
-        }),
+        },
         deadlineAt,
       );
       raw = JSON.parse(reply.text);

@@ -8,9 +8,18 @@ if (!config.geminiApiKey) {
   console.error('GEMINI_API_KEY is not set (apps/api/.env).');
   process.exit(1);
 }
-const model = createGeminiModel(config.geminiApiKey, config.geminiModel);
-const signal = AbortSignal.timeout(30_000);
+const names = [config.geminiModel, ...config.geminiFallbackModels];
+let failures = 0;
+for (const name of names) {
+  if (!(await check(name, config.geminiApiKey))) failures++;
+}
+process.exit(failures === names.length ? 1 : 0);
 
+async function check(name: string, apiKey: string): Promise<boolean> {
+// No retries here, so a busy model shows up as busy instead of looking slow.
+const model = createGeminiModel(apiKey, name, { retry: { attemptsPerModel: 1, baseDelayMs: 0, maxDelayMs: 0 } });
+const signal = AbortSignal.timeout(30_000);
+console.log(`\n== ${name}`);
 try {
   const t0 = Date.now();
   const plain = await model.generate({
@@ -34,9 +43,12 @@ try {
   const call = tool.functionCalls[0];
   if (!call) throw new Error(`model did not call the tool, it said: ${tool.text.slice(0, 200)}`);
   console.log(`2/2 function call OK in ${Date.now() - t1}ms: ${call.name}(${JSON.stringify(call.args)})`);
-  console.log(`Model ${config.geminiModel} works with this key.`);
+  console.log(`Model ${name} works with this key.`);
+  return true;
 } catch (err) {
   const msg = err instanceof Error ? err.message : String(err);
-  console.error(`Gemini call failed for model ${config.geminiModel}: ${msg.split(config.geminiApiKey).join('[redacted]')}`);
-  process.exit(1);
+  const status = (err as { status?: number }).status;
+  console.error(`Gemini call failed for model ${name}${status ? ` (HTTP ${status})` : ''}: ${msg.split(apiKey).join('[redacted]').slice(0, 300)}`);
+  return false;
+}
 }

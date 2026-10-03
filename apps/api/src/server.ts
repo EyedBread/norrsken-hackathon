@@ -87,7 +87,7 @@ async function main() {
   const cache = new ResultCache(config.sources === 'live' ? config.cacheDir : null);
   const loaded = await cache.load();
   const store = new JobStore({
-    model: createGeminiModel(config.geminiApiKey, config.geminiModel),
+    model: createGeminiModel(config.geminiApiKey, config.geminiModel, { fallbackModels: config.geminiFallbackModels }),
     sources,
     budgets: config.budgets,
     mode: config.sources === 'live' ? 'live' : 'demo',
@@ -95,7 +95,7 @@ async function main() {
     redact,
   });
 
-  createApp(store, { model: config.geminiModel, sources: config.sources }).listen(config.port, () => {
+  createApp(store, { model: config.geminiModel, fallbackModels: config.geminiFallbackModels, sources: config.sources }).listen(config.port, () => {
     console.log(
       `Around the Web API on http://localhost:${config.port} ` +
         `(model ${config.geminiModel}, sources ${config.sources}, ${loaded} cached results)`,
